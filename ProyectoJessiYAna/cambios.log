@@ -17,3 +17,15 @@
 [2023-08-16 11:54:50] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
 [2023-08-16 11:54:50] [ INFO ] [OdontologoDAOH2:23] Se ha guardado los datos del odontologo en la base de datos
 [2023-08-16 11:54:50] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-20 21:46:13] [ INFO ] [BD:29] datos de prueba cargados exitosamente
+[2023-08-20 21:50:57] [ INFO ] [BD:29] datos de prueba cargados exitosamente
+[2023-08-20 21:54:06] [ INFO ] [BD:29] datos de prueba cargados exitosamente
+[2023-08-20 21:57:42] [ INFO ] [PacienteDAOH2:157] inicio de operacion de : Buscado por Email  miguelbuitrago@figitalhouse.com
+[2023-08-20 21:58:47] [ INFO ] [PacienteDAOH2:157] inicio de operacion de : Buscado por Email  miguelbuitrago@figitalhouse.com
+[2023-08-20 21:59:18] [ INFO ] [PacienteDAOH2:157] inicio de operacion de : Buscado por Email  jorge.pereyra@digitalhouse.com
+[2023-08-20 22:04:30] [ INFO ] [BD:29] datos de prueba cargados exitosamente
+[2023-08-20 22:06:42] [ INFO ] [PacienteDAOH2:157] inicio de operacion de : Buscado por Email  jorge.pereyra@digitalhouse.com
+[2023-08-20 22:06:42] [ INFO ] [DomicilioDAOH2:52] inicio de operacion de : 
+[2023-08-20 22:15:53] [ INFO ] [BD:29] datos de prueba cargados exitosamente
+[2023-08-20 22:16:11] [ INFO ] [PacienteDAOH2:157] inicio de operacion de : Buscado por Email  jorge.pereyra@digitalhouse.com
+[2023-08-20 22:16:11] [ INFO ] [DomicilioDAOH2:52] inicio de operacion de : 

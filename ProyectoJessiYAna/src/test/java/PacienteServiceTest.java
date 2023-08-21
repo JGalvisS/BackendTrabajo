@@ -1,8 +1,8 @@
-import dao.BD;
-import model.Paciente;
+import com.example.ProyectoJessiYAna.dao.BD;
+import com.example.ProyectoJessiYAna.model.Paciente;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import service.PacienteService;
+import com.example.ProyectoJessiYAna.service.PacienteService;
 
 import java.util.List;
 

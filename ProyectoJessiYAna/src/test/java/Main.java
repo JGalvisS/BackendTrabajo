@@ -1,9 +1,9 @@
 
 
-import daoOdontologo.BD;
-import daoOdontologo.OdontologoDAOH2;
-import model.Odontologo;
-import service.OdontologoService;
+import com.example.ProyectoJessiYAna.daoOdontologo.BD;
+import com.example.ProyectoJessiYAna.daoOdontologo.OdontologoDAOH2;
+import com.example.ProyectoJessiYAna.model.Odontologo;
+import com.example.ProyectoJessiYAna.service.OdontologoService;
 
 
 public class Main {

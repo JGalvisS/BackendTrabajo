@@ -1,5 +1,6 @@
 package com.example.ProyectoJessiYAna;
 
+import com.example.ProyectoJessiYAna.dao.BD;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -7,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProyectoJessiYAnaApplication {
 
 	public static void main(String[] args) {
+		BD.crearTablas();
 		SpringApplication.run(ProyectoJessiYAnaApplication.class, args);
 	}
 

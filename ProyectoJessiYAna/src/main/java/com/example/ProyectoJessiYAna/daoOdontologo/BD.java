@@ -1,4 +1,4 @@
-package daoOdontologo;
+package com.example.ProyectoJessiYAna.daoOdontologo;
 
 import org.apache.log4j.Logger;
 

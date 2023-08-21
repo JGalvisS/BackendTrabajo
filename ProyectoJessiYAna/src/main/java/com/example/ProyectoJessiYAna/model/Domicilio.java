@@ -1,4 +1,4 @@
-package model;
+package com.example.ProyectoJessiYAna.model;
 
 public class Domicilio {
     private Integer id;

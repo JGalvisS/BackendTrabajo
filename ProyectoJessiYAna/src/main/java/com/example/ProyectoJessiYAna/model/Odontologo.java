@@ -1,4 +1,4 @@
-package model;
+package com.example.ProyectoJessiYAna.model;
 
 public class Odontologo {
     private String matricula;

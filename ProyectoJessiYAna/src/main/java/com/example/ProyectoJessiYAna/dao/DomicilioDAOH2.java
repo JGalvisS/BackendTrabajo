@@ -1,6 +1,6 @@
-package dao;
+package com.example.ProyectoJessiYAna.dao;
 
-import model.Domicilio;
+import com.example.ProyectoJessiYAna.model.Domicilio;
 import org.apache.log4j.Logger;
 
 import java.sql.*;
@@ -137,4 +137,9 @@ public class DomicilioDAOH2 implements iDao<Domicilio>{
         return domicilios;
     }
 }
+
+    @Override
+    public Domicilio buscarPorString(String valor) {
+        return null;
+    }
 }

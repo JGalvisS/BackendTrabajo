@@ -1,6 +1,6 @@
-package daoOdontologo;
+package com.example.ProyectoJessiYAna.daoOdontologo;
 
-import model.Odontologo;
+import com.example.ProyectoJessiYAna.model.Odontologo;
 import org.apache.log4j.Logger;
 
 import java.sql.*;
@@ -13,7 +13,7 @@ public class OdontologoDAOH2 implements IDaoOdontologo<Odontologo> {
     public Odontologo guardar(Odontologo odontologo) {
         Connection connection=null;
         try {
-            connection= daoOdontologo.BD.getConnection();
+            connection= BD.getConnection();
             PreparedStatement psInsert= connection.prepareStatement(SQL_INSERT);
             psInsert.setString(1,odontologo.getMatricula());
             psInsert.setString(2,odontologo.getNombre());

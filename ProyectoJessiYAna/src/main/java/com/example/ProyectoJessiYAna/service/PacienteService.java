@@ -1,12 +1,15 @@
-package service;
+package com.example.ProyectoJessiYAna.service;
 
-import dao.PacienteDAOH2;
-import dao.iDao;
-import model.Paciente;
+import com.example.ProyectoJessiYAna.dao.PacienteDAOH2;
+import com.example.ProyectoJessiYAna.dao.iDao;
+import com.example.ProyectoJessiYAna.model.Paciente;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
-
+@Service
 public class PacienteService {
+    @Autowired
     private iDao<Paciente> pacienteiDao= new PacienteDAOH2();
     public Paciente guardarPaciente(Paciente paciente){
         return pacienteiDao.guardar(paciente);
@@ -23,4 +26,5 @@ public class PacienteService {
     public List<Paciente> obtenerPacientes(){
         return pacienteiDao.buscarTodos();
     }
+    public Paciente buscarPorEmail(String correo){return pacienteiDao.buscarPorString(correo); }
 }
