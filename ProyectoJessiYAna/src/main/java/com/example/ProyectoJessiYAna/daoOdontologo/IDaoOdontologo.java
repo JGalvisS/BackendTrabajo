@@ -4,5 +4,9 @@ public interface IDaoOdontologo<T>{
     T guardar (T t);
 
 
-    T listar (T t);
+    void listar ();
+
+    T buscar(Integer id);
+    void eliminar(Integer id);
+    void actualizar(T t);
 }

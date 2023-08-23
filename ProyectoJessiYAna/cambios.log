@@ -29,3 +29,181 @@
 [2023-08-20 22:15:53] [ INFO ] [BD:29] datos de prueba cargados exitosamente
 [2023-08-20 22:16:11] [ INFO ] [PacienteDAOH2:157] inicio de operacion de : Buscado por Email  jorge.pereyra@digitalhouse.com
 [2023-08-20 22:16:11] [ INFO ] [DomicilioDAOH2:52] inicio de operacion de : 
+[2023-08-22 23:20:59] [ INFO ] [BD:19] La tabla de odontologos ya fue creada
+[2023-08-22 23:20:59] [ WARN ] [BD:27] Conexion cerrada
+[2023-08-22 23:20:59] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:20:59] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:20:59] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-22 23:22:11] [ INFO ] [BD:19] La tabla de odontologos ya fue creada
+[2023-08-22 23:22:11] [ WARN ] [BD:27] Conexion cerrada
+[2023-08-22 23:22:11] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:22:11] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:22:11] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-22 23:22:50] [ INFO ] [BD:19] La tabla de odontologos ya fue creada
+[2023-08-22 23:22:50] [ WARN ] [BD:27] Conexion cerrada
+[2023-08-22 23:22:50] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:22:50] [ INFO ] [OdontologoDAOH2:27] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-22 23:22:50] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:22:50] [ INFO ] [OdontologoDAOH2:27] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-22 23:22:50] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-22 23:24:44] [ INFO ] [BD:19] La tabla de odontologos ya fue creada
+[2023-08-22 23:24:44] [ WARN ] [BD:27] Conexion cerrada
+[2023-08-22 23:24:44] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:24:44] [ INFO ] [OdontologoDAOH2:27] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-22 23:24:44] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:24:44] [ INFO ] [OdontologoDAOH2:27] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-22 23:24:44] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-22 23:33:37] [ INFO ] [BD:19] La tabla de odontologos ya fue creada
+[2023-08-22 23:33:37] [ WARN ] [BD:27] Conexion cerrada
+[2023-08-22 23:33:37] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:33:37] [ INFO ] [OdontologoDAOH2:27] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-22 23:33:37] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:33:37] [ INFO ] [OdontologoDAOH2:27] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-22 23:33:37] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-22 23:33:37] [ INFO ] [OdontologoDAOH2:51] Se ha listado a todos los odontologos
+[2023-08-22 23:33:37] [ INFO ] [OdontologoService:26] Se llama a Odontologo Service para buscar por ID
+[2023-08-22 23:36:55] [ INFO ] [BD:19] La tabla de odontologos ya fue creada
+[2023-08-22 23:36:55] [ WARN ] [BD:27] Conexion cerrada
+[2023-08-22 23:36:55] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:36:55] [ INFO ] [OdontologoDAOH2:27] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-22 23:36:55] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:36:55] [ INFO ] [OdontologoDAOH2:27] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-22 23:36:55] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-22 23:36:55] [ INFO ] [OdontologoDAOH2:51] Se ha listado a todos los odontologos
+[2023-08-22 23:36:55] [ INFO ] [OdontologoService:26] Se llama a Odontologo Service para buscar por ID
+[2023-08-22 23:36:55] [ INFO ] [OdontologoDAOH2:76] Se ha encontrado al Odontologo buscado por ID
+[2023-08-22 23:41:05] [ INFO ] [BD:19] La tabla de odontologos ya fue creada
+[2023-08-22 23:41:05] [ WARN ] [BD:27] Conexion cerrada
+[2023-08-22 23:41:05] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:41:05] [ INFO ] [OdontologoDAOH2:27] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-22 23:41:05] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:41:05] [ INFO ] [OdontologoDAOH2:27] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-22 23:41:05] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-22 23:41:05] [ INFO ] [OdontologoDAOH2:51] Se ha listado a todos los odontologos
+[2023-08-22 23:41:05] [ INFO ] [OdontologoService:26] Se llama a Odontologo Service para buscar por ID
+[2023-08-22 23:41:05] [ INFO ] [OdontologoDAOH2:76] Se ha encontrado al Odontologo buscado por ID
+[2023-08-22 23:50:34] [ INFO ] [BD:19] La tabla de odontologos ya fue creada
+[2023-08-22 23:50:34] [ WARN ] [BD:27] Conexion cerrada
+[2023-08-22 23:50:34] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:50:34] [ INFO ] [OdontologoDAOH2:27] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-22 23:50:34] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:50:34] [ INFO ] [OdontologoDAOH2:27] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-22 23:50:34] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-22 23:50:34] [ INFO ] [OdontologoDAOH2:51] Se ha listado a todos los odontologos
+[2023-08-22 23:50:34] [ INFO ] [OdontologoService:26] Se llama a Odontologo Service para buscar por ID
+[2023-08-22 23:50:34] [ INFO ] [OdontologoDAOH2:76] Se ha encontrado al Odontologo buscado por ID
+[2023-08-22 23:53:02] [ INFO ] [BD:19] La tabla de odontologos ya fue creada
+[2023-08-22 23:53:02] [ WARN ] [BD:27] Conexion cerrada
+[2023-08-22 23:53:02] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:53:02] [ INFO ] [OdontologoDAOH2:27] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-22 23:53:02] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:53:02] [ INFO ] [OdontologoDAOH2:27] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-22 23:53:02] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-22 23:53:02] [ INFO ] [OdontologoDAOH2:51] Se ha listado a todos los odontologos
+[2023-08-22 23:53:02] [ INFO ] [OdontologoService:26] Se llama a Odontologo Service para buscar por ID
+[2023-08-22 23:53:02] [ INFO ] [OdontologoDAOH2:77] Se ha encontrado al Odontologo buscado por ID
+[2023-08-22 23:54:45] [ INFO ] [BD:19] La tabla de odontologos ya fue creada
+[2023-08-22 23:54:45] [ WARN ] [BD:27] Conexion cerrada
+[2023-08-22 23:54:45] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:54:45] [ INFO ] [OdontologoDAOH2:27] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-22 23:54:45] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-22 23:54:45] [ INFO ] [OdontologoDAOH2:27] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-22 23:54:45] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-22 23:54:45] [ INFO ] [OdontologoDAOH2:51] Se ha listado a todos los odontologos
+[2023-08-22 23:54:45] [ INFO ] [OdontologoService:26] Se llama a Odontologo Service para buscar por ID
+[2023-08-22 23:54:45] [ INFO ] [OdontologoDAOH2:78] Se ha encontrado al Odontologo buscado por ID
+[2023-08-23 00:09:05] [ INFO ] [BD:19] La tabla de odontologos ya fue creada
+[2023-08-23 00:09:05] [ WARN ] [BD:27] Conexion cerrada
+[2023-08-23 00:09:05] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-23 00:09:05] [ INFO ] [OdontologoDAOH2:28] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-23 00:09:05] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-23 00:09:05] [ INFO ] [OdontologoDAOH2:28] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-23 00:09:05] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-23 00:09:05] [ INFO ] [OdontologoDAOH2:52] Se ha listado a todos los odontologos
+[2023-08-23 00:09:05] [ INFO ] [OdontologoService:26] Se llama a Odontologo Service para buscar por ID
+[2023-08-23 00:09:05] [ INFO ] [OdontologoDAOH2:78] Se ha encontrado al Odontologo buscado por ID
+[2023-08-23 00:09:05] [ INFO ] [OdontologoService:30] Se llama a Odontologo Service para eliminar a este Odontologo de la base de datos
+[2023-08-23 00:09:05] [ INFO ] [OdontologoDAOH2:78] Se ha encontrado al Odontologo buscado por ID
+[2023-08-23 00:09:06] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-23 00:09:06] [ INFO ] [OdontologoDAOH2:52] Se ha listado a todos los odontologos
+[2023-08-23 00:10:26] [ INFO ] [BD:19] La tabla de odontologos ya fue creada
+[2023-08-23 00:10:26] [ WARN ] [BD:27] Conexion cerrada
+[2023-08-23 00:10:26] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-23 00:10:26] [ INFO ] [OdontologoDAOH2:28] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-23 00:10:26] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-23 00:10:26] [ INFO ] [OdontologoDAOH2:28] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-23 00:10:26] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-23 00:10:26] [ INFO ] [OdontologoDAOH2:52] Se ha listado a todos los odontologos
+[2023-08-23 00:10:26] [ INFO ] [OdontologoService:26] Se llama a Odontologo Service para buscar por ID
+[2023-08-23 00:10:26] [ INFO ] [OdontologoDAOH2:78] Se ha encontrado al Odontologo buscado por ID
+[2023-08-23 00:10:26] [ INFO ] [OdontologoService:30] Se llama a Odontologo Service para eliminar a este Odontologo de la base de datos
+[2023-08-23 00:10:26] [ INFO ] [OdontologoDAOH2:78] Se ha encontrado al Odontologo buscado por ID
+[2023-08-23 00:10:26] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-23 00:10:26] [ INFO ] [OdontologoDAOH2:52] Se ha listado a todos los odontologos
+[2023-08-23 00:12:06] [ INFO ] [BD:19] La tabla de odontologos ya fue creada
+[2023-08-23 00:12:06] [ WARN ] [BD:27] Conexion cerrada
+[2023-08-23 00:12:06] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-23 00:12:06] [ INFO ] [OdontologoDAOH2:28] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-23 00:12:06] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-23 00:12:06] [ INFO ] [OdontologoDAOH2:28] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-23 00:12:06] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-23 00:12:07] [ INFO ] [OdontologoDAOH2:52] Se ha listado a todos los odontologos
+[2023-08-23 00:12:07] [ INFO ] [OdontologoService:26] Se llama a Odontologo Service para buscar por ID
+[2023-08-23 00:12:07] [ INFO ] [OdontologoDAOH2:78] Se ha encontrado al Odontologo buscado por ID
+[2023-08-23 00:12:07] [ INFO ] [OdontologoService:30] Se llama a Odontologo Service para eliminar a este Odontologo de la base de datos
+[2023-08-23 00:12:07] [ INFO ] [OdontologoDAOH2:78] Se ha encontrado al Odontologo buscado por ID
+[2023-08-23 00:12:07] [ INFO ] [OdontologoDAOH2:103] Se ha eliminado a este Odontologo de la base de datos 
+[2023-08-23 00:12:07] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-23 00:12:07] [ INFO ] [OdontologoDAOH2:52] Se ha listado a todos los odontologos
+[2023-08-23 00:13:03] [ INFO ] [BD:19] La tabla de odontologos ya fue creada
+[2023-08-23 00:13:03] [ WARN ] [BD:27] Conexion cerrada
+[2023-08-23 00:13:03] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-23 00:13:03] [ INFO ] [OdontologoDAOH2:28] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-23 00:13:03] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-23 00:13:03] [ INFO ] [OdontologoDAOH2:28] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-23 00:13:03] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-23 00:13:03] [ INFO ] [OdontologoDAOH2:52] Se ha listado a todos los odontologos
+[2023-08-23 00:13:03] [ INFO ] [OdontologoService:26] Se llama a Odontologo Service para buscar por ID2
+[2023-08-23 00:13:03] [ INFO ] [OdontologoDAOH2:78] Se ha encontrado al Odontologo buscado por ID
+[2023-08-23 00:13:03] [ INFO ] [OdontologoService:30] Se llama a Odontologo Service para eliminar a este Odontologo de la base de datos
+[2023-08-23 00:13:03] [ INFO ] [OdontologoDAOH2:78] Se ha encontrado al Odontologo buscado por ID
+[2023-08-23 00:13:03] [ INFO ] [OdontologoDAOH2:103] Se ha eliminado a este Odontologo de la base de datos 
+[2023-08-23 00:13:03] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-23 00:13:03] [ INFO ] [OdontologoDAOH2:52] Se ha listado a todos los odontologos
+[2023-08-23 00:44:31] [ INFO ] [BD:19] La tabla de odontologos ya fue creada
+[2023-08-23 00:44:31] [ WARN ] [BD:27] Conexion cerrada
+[2023-08-23 00:44:31] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-23 00:44:31] [ INFO ] [OdontologoDAOH2:29] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-23 00:44:31] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-23 00:44:31] [ INFO ] [OdontologoDAOH2:29] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-23 00:44:31] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-23 00:44:31] [ INFO ] [OdontologoDAOH2:53] Se ha listado a todos los odontologos
+[2023-08-23 00:44:31] [ INFO ] [OdontologoService:26] Se llama a Odontologo Service para buscar por ID numero 2
+[2023-08-23 00:44:31] [ INFO ] [OdontologoDAOH2:79] Se ha encontrado al Odontologo buscado por ID
+[2023-08-23 00:44:31] [ INFO ] [OdontologoService:30] Se llama a Odontologo Service para eliminar a este Odontologo de la base de datos
+[2023-08-23 00:44:31] [ INFO ] [OdontologoDAOH2:79] Se ha encontrado al Odontologo buscado por ID
+[2023-08-23 00:44:31] [ INFO ] [OdontologoDAOH2:104] Se ha eliminado a este Odontologo de la base de datos 
+[2023-08-23 00:44:31] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-23 00:44:31] [ INFO ] [OdontologoDAOH2:53] Se ha listado a todos los odontologos
+[2023-08-23 00:44:31] [ INFO ] [OdontologoService:34] Se llama a Odontologo Service para actualizar al odontologo con id 1
+[2023-08-23 00:44:32] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-23 00:44:32] [ INFO ] [OdontologoDAOH2:53] Se ha listado a todos los odontologos
+[2023-08-23 00:46:55] [ INFO ] [BD:19] La tabla de odontologos ya fue creada
+[2023-08-23 00:46:55] [ WARN ] [BD:27] Conexion cerrada
+[2023-08-23 00:46:55] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-23 00:46:55] [ INFO ] [OdontologoDAOH2:29] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-23 00:46:55] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-23 00:46:55] [ INFO ] [OdontologoDAOH2:29] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-23 00:46:55] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-23 00:46:55] [ INFO ] [OdontologoDAOH2:53] Se ha listado a todos los odontologos
+[2023-08-23 00:46:55] [ INFO ] [OdontologoService:26] Se llama a Odontologo Service para buscar por ID numero 2
+[2023-08-23 00:46:55] [ INFO ] [OdontologoDAOH2:79] Se ha encontrado al Odontologo buscado por ID
+[2023-08-23 00:46:55] [ INFO ] [OdontologoService:30] Se llama a Odontologo Service para eliminar a este Odontologo de la base de datos
+[2023-08-23 00:46:55] [ INFO ] [OdontologoDAOH2:79] Se ha encontrado al Odontologo buscado por ID
+[2023-08-23 00:46:55] [ INFO ] [OdontologoDAOH2:104] Se ha eliminado a este Odontologo de la base de datos 
+[2023-08-23 00:46:55] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-23 00:46:55] [ INFO ] [OdontologoDAOH2:53] Se ha listado a todos los odontologos
+[2023-08-23 00:46:55] [ INFO ] [OdontologoService:34] Se llama a Odontologo Service para actualizar al odontologo con id 1
+[2023-08-23 00:46:55] [ INFO ] [OdontologoDAOH2:132] El odontologo con ID 1 ha sido actualizado correctamenete 
+[2023-08-23 00:46:55] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-23 00:46:55] [ INFO ] [OdontologoDAOH2:53] Se ha listado a todos los odontologos

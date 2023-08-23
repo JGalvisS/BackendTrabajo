@@ -14,13 +14,20 @@ public class Main {
 
 
         BD.createTabla();
-        Odontologo odontologo = new Odontologo("AB123", "Katherine", "Galvis", 1);
-        Odontologo odontologo1 = new Odontologo("AB456", "Ana", "Camargo", 2);
+        Odontologo odontologo = new Odontologo("AB123", "Katherine", "Galvis");
+        Odontologo odontologo1 = new Odontologo("AB456", "Ana", "Camargo");
+        Odontologo odontologo3 = new Odontologo(1,"AB123","Jessica","Galvis");
         OdontologoService service = new OdontologoService(new OdontologoDAOH2());
 
         service.guardarOdontolo(odontologo);
         service.guardarOdontolo(odontologo1);
-        service.listarOdontologo(odontologo);
+        service.listarOdontologo();
+        service.buscarOdontologoPorID(2);
+        service.eliminarOdontologo(2);
+        service.listarOdontologo();
+        service.actualizarOdontologo(odontologo3);
+        service.listarOdontologo();
+
 
 
 

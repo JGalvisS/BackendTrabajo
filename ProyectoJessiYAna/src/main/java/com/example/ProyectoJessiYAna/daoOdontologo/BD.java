@@ -9,7 +9,7 @@ import java.sql.Statement;
 
 public class BD {
     private static final Logger logger = Logger.getLogger(BD.class);
-    private static final String SQL_DROP_CREATE="DROP TABLE IF EXISTS ODONTOLOGO; CREATE TABLE ODONTOLOGO ( MATRICULA VARCHAR(20) NOT NULL, NOMBRE VARCHAR(50) NOT NULL, APELLIDO VARCHAR(50) NOT NULL, ID INT PRIMARY KEY )";
+    private static final String SQL_DROP_CREATE="DROP TABLE IF EXISTS ODONTOLOGO; CREATE TABLE ODONTOLOGO ( ID INT AUTO_INCREMENT PRIMARY KEY,  MATRICULA VARCHAR(20) NOT NULL, NOMBRE VARCHAR(50) NOT NULL, APELLIDO VARCHAR(50) NOT NULL)";
     public static void createTabla(){
         Connection connection= null;
         try {

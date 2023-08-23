@@ -18,8 +18,20 @@ public class OdontologoService {
         logger.info("Se llama a Odontologo Service para guardar");
         return odontologoIDao.guardar(odontologo);
     }
-    public Odontologo listarOdontologo(Odontologo odontologo){
+    public void listarOdontologo( ){
         logger.info("Se llama a Odontologo Service para listar");
-        return odontologoIDao.listar(odontologo);
+        odontologoIDao.listar();
+    }
+    public Odontologo buscarOdontologoPorID (Integer id){
+        logger.info("Se llama a Odontologo Service para buscar por ID numero "+id);
+        return odontologoIDao.buscar(id);
+    }
+    public void eliminarOdontologo (Integer id){
+        logger.info("Se llama a Odontologo Service para eliminar a este Odontologo de la base de datos");
+        odontologoIDao.eliminar(id);
+    }
+    public void actualizarOdontologo (Odontologo odontologo){
+        logger.info("Se llama a Odontologo Service para actualizar al odontologo con id "+odontologo.getId());
+        odontologoIDao.actualizar(odontologo);
     }
 }
