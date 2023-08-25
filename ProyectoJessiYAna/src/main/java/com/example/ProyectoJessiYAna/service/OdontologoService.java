@@ -4,7 +4,9 @@ package com.example.ProyectoJessiYAna.service;
 import com.example.ProyectoJessiYAna.daoOdontologo.IDaoOdontologo;
 import com.example.ProyectoJessiYAna.model.Odontologo;
 import org.apache.log4j.Logger;
+import org.springframework.stereotype.Service;
 
+@Service
 public class OdontologoService {
     private static final Logger logger= Logger.getLogger(OdontologoService.class);
     private IDaoOdontologo<Odontologo> odontologoIDao;

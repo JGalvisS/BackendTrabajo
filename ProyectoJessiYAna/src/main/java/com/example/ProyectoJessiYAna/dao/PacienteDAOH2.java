@@ -86,11 +86,13 @@ public class PacienteDAOH2 implements iDao<Paciente>{
 
     @Override
     public void eliminar(Integer id) {
-        logger.info("inicio de operacion de : ");
+        logger.info("inicio de operacion de Eliminar: Paciente ");
         Connection connection= null;
         try{
             connection= BD.getConnection();
-
+            PreparedStatement statement = connection.prepareStatement(SQL_DELETE);
+            statement.setInt(1,id);
+            statement.execute();
         }catch (Exception e){
             e.printStackTrace();
         }finally {
@@ -105,10 +107,23 @@ public class PacienteDAOH2 implements iDao<Paciente>{
 
     @Override
     public void actualizar(Paciente paciente) {
-        logger.info("inicio de operacion de : ");
+        logger.info("inicio de operacion de Actualizar paciente con ID : "+paciente.getId());
         Connection connection= null;
         try{
             connection= BD.getConnection();
+            DomicilioDAOH2 daoAux= new DomicilioDAOH2();
+            daoAux.actualizar(paciente.getDomicilio());
+            PreparedStatement psUpdate=connection.prepareStatement(SQL_UPDATE);
+            //vienen las parametrizadas
+            //NOMBRE=?, APELLIDO=?, CEDULA=?, FECHA_INGRESO=?, DOMICILIO_ID=?, EMAIL=? WHERE ID=?"
+            psUpdate.setString(1,paciente.getNombre());
+            psUpdate.setString(2,paciente.getApellido());
+            psUpdate.setString(3,paciente.getCedula());
+            psUpdate.setDate(4,Date.valueOf(paciente.getFechaIngreso()));
+            psUpdate.setInt(5,paciente.getDomicilio().getId());
+            psUpdate.setString(6,paciente.getEmail());
+            psUpdate.setInt(7,paciente.getId());
+            psUpdate.execute();
 
         }catch (Exception e){
             e.printStackTrace();

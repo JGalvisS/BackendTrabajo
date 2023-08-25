@@ -6,7 +6,7 @@ import com.example.ProyectoJessiYAna.model.Odontologo;
 import com.example.ProyectoJessiYAna.service.OdontologoService;
 
 
-public class Main {
+public class Test {
 
 
     public static void main(String[] args) {

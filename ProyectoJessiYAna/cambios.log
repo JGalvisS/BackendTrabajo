@@ -207,3 +207,49 @@
 [2023-08-23 00:46:55] [ INFO ] [OdontologoDAOH2:132] El odontologo con ID 1 ha sido actualizado correctamenete 
 [2023-08-23 00:46:55] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
 [2023-08-23 00:46:55] [ INFO ] [OdontologoDAOH2:53] Se ha listado a todos los odontologos
+[2023-08-24 15:04:52] [ INFO ] [BD:19] La tabla de odontologos ya fue creada
+[2023-08-24 15:04:52] [ WARN ] [BD:27] Conexion cerrada
+[2023-08-24 15:04:52] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-24 15:04:52] [ INFO ] [OdontologoDAOH2:29] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-24 15:04:52] [ INFO ] [OdontologoService:18] Se llama a Odontologo Service para guardar
+[2023-08-24 15:04:52] [ INFO ] [OdontologoDAOH2:29] Se ha guardado los datos del odontologo en la base de datos
+[2023-08-24 15:04:52] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-24 15:04:52] [ INFO ] [OdontologoDAOH2:53] Se ha listado a todos los odontologos
+[2023-08-24 15:04:52] [ INFO ] [OdontologoService:26] Se llama a Odontologo Service para buscar por ID numero 2
+[2023-08-24 15:04:52] [ INFO ] [OdontologoDAOH2:79] Se ha encontrado al Odontologo buscado por ID
+[2023-08-24 15:04:52] [ INFO ] [OdontologoService:30] Se llama a Odontologo Service para eliminar a este Odontologo de la base de datos
+[2023-08-24 15:04:52] [ INFO ] [OdontologoDAOH2:79] Se ha encontrado al Odontologo buscado por ID
+[2023-08-24 15:04:52] [ INFO ] [OdontologoDAOH2:104] Se ha eliminado a este Odontologo de la base de datos 
+[2023-08-24 15:04:52] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-24 15:04:52] [ INFO ] [OdontologoDAOH2:53] Se ha listado a todos los odontologos
+[2023-08-24 15:04:52] [ INFO ] [OdontologoService:34] Se llama a Odontologo Service para actualizar al odontologo con id 1
+[2023-08-24 15:04:52] [ INFO ] [OdontologoDAOH2:132] El odontologo con ID 1 ha sido actualizado correctamenete 
+[2023-08-24 15:04:52] [ INFO ] [OdontologoService:22] Se llama a Odontologo Service para listar
+[2023-08-24 15:04:52] [ INFO ] [OdontologoDAOH2:53] Se ha listado a todos los odontologos
+[2023-08-24 15:05:07] [ INFO ] [BD:29] datos de prueba cargados exitosamente
+[2023-08-24 15:07:00] [ INFO ] [BD:29] datos de prueba cargados exitosamente
+[2023-08-24 15:08:21] [ INFO ] [BD:29] datos de prueba cargados exitosamente
+[2023-08-24 15:44:14] [ INFO ] [BD:29] datos de prueba cargados exitosamente
+[2023-08-24 15:48:15] [ INFO ] [BD:29] datos de prueba cargados exitosamente
+[2023-08-24 15:49:27] [ INFO ] [BD:29] datos de prueba cargados exitosamente
+[2023-08-24 16:43:43] [ INFO ] [BD:29] datos de prueba cargados exitosamente
+[2023-08-24 16:44:05] [ INFO ] [PacienteDAOH2:24] inicio de operaciones guarado de un paciente
+[2023-08-24 16:44:05] [ INFO ] [DomicilioDAOH2:20] inicio de operacion de : guardado de un domicilio 
+[2023-08-24 16:48:00] [ INFO ] [PacienteDAOH2:24] inicio de operaciones guarado de un paciente
+[2023-08-24 16:48:00] [ INFO ] [DomicilioDAOH2:20] inicio de operacion de : guardado de un domicilio 
+[2023-08-24 16:50:35] [ INFO ] [PacienteDAOH2:59] inicio de operacion de : BUSCADO 
+[2023-08-24 16:50:35] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-24 16:50:35] [ INFO ] [PacienteDAOH2:108] inicio de operacion de Actualizar paciente con ID : 4
+[2023-08-24 16:50:35] [ INFO ] [DomicilioDAOH2:99] inicio de operacion de Actualizar un Domicilio  : 4
+[2023-08-24 22:35:07] [ INFO ] [BD:29] datos de prueba cargados exitosamente
+[2023-08-24 22:55:16] [ INFO ] [BD:29] datos de prueba cargados exitosamente
+[2023-08-24 22:56:25] [ INFO ] [PacienteDAOH2:59] inicio de operacion de : BUSCADO 
+[2023-08-24 22:56:25] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-24 23:07:34] [ INFO ] [BD:29] datos de prueba cargados exitosamente
+[2023-08-24 23:08:28] [ INFO ] [PacienteDAOH2:140] inicio de operacion de : buscado de todos los pacientes 
+[2023-08-24 23:08:28] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-24 23:08:28] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-24 23:31:43] [ INFO ] [BD:29] datos de prueba cargados exitosamente
+[2023-08-24 23:31:57] [ INFO ] [PacienteDAOH2:59] inicio de operacion de : BUSCADO 
+[2023-08-24 23:31:57] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-24 23:31:57] [ INFO ] [PacienteDAOH2:89] inicio de operacion de Eliminar: Paciente 

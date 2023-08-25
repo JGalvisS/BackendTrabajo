@@ -2,9 +2,10 @@ package com.example.ProyectoJessiYAna.model;
 
 import lombok.Getter;
 import lombok.Setter;
+import org.springframework.stereotype.Component;
 
 import java.time.LocalDate;
-
+@Component
 @Getter
 @Setter
 public class Paciente {
@@ -15,6 +16,9 @@ public class Paciente {
     private LocalDate fechaIngreso;
     private Domicilio domicilio;
     private String email;
+
+    public Paciente() {
+    }
 
     public Paciente(String nombre, String apellido, String cedula, LocalDate fechaIngreso, Domicilio domicilio, String email) {
         this.nombre = nombre;

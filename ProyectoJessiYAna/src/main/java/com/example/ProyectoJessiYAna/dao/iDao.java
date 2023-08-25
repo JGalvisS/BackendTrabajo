@@ -1,7 +1,9 @@
 package com.example.ProyectoJessiYAna.dao;
 
-import java.util.List;
+import org.springframework.stereotype.Component;
 
+import java.util.List;
+@Component
 public interface iDao<T> {
     T guardar(T t);
     T buscar(Integer id);

@@ -1,6 +1,7 @@
 package com.example.ProyectoJessiYAna.daoOdontologo;
 
 import org.apache.log4j.Logger;
+import org.springframework.stereotype.Component;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

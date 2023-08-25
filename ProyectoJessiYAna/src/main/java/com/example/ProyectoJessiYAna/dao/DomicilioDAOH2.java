@@ -2,11 +2,12 @@ package com.example.ProyectoJessiYAna.dao;
 
 import com.example.ProyectoJessiYAna.model.Domicilio;
 import org.apache.log4j.Logger;
+import org.springframework.stereotype.Component;
 
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
-
+@Component
 public class DomicilioDAOH2 implements iDao<Domicilio>{
     private static final Logger logger= Logger.getLogger(DomicilioDAOH2.class);
     private static final String SQL_INSERT="INSERT INTO DOMICILIOS (CALLE, NUMERO, LOCALIDAD, PROVINCIA) VALUES (?,?,?,?)";
@@ -95,10 +96,22 @@ public class DomicilioDAOH2 implements iDao<Domicilio>{
 
     @Override
     public void actualizar(Domicilio domicilio) {
-        logger.info("inicio de operacion de : ");
+        logger.info("inicio de operacion de Actualizar un Domicilio  : "+domicilio.getId());
                 Connection connection= null;
                 try{
                     connection= BD.getConnection();
+                    //siempre despues van los PreparedStatement
+                    PreparedStatement psUpdate=connection.prepareStatement(SQL_UPDATE);
+                    // ahora van las parametrizadas
+                    psUpdate.setString(1, domicilio.getCalle());
+                    psUpdate.setInt(2,domicilio.getNumero());
+                    psUpdate.setString(3,domicilio.getLocalidad());
+                    psUpdate.setString(4, domicilio.getProvincia());
+                    psUpdate.setInt(5,domicilio.getId());
+                    psUpdate.execute();
+
+
+
 
                 }catch (Exception e){
                     e.printStackTrace();

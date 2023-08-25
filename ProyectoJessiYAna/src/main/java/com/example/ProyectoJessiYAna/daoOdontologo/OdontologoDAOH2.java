@@ -2,9 +2,10 @@ package com.example.ProyectoJessiYAna.daoOdontologo;
 
 import com.example.ProyectoJessiYAna.model.Odontologo;
 import org.apache.log4j.Logger;
+import org.springframework.stereotype.Component;
 
 import java.sql.*;
-
+@Component
 public class OdontologoDAOH2 implements IDaoOdontologo<Odontologo> {
     private static final Logger logguer = Logger.getLogger(OdontologoDAOH2.class);
     private static final String SQL_INSERT="INSERT INTO ODONTOLOGO (MATRICULA, NOMBRE, APELLIDO) VALUES(?,?,?)";

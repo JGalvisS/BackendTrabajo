@@ -1,10 +1,16 @@
 package com.example.ProyectoJessiYAna.model;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Odontologo {
     private String matricula;
     private String nombre;
     private String apellido;
     private Integer id;
+
+    public Odontologo() {
+    }
 
     public Odontologo(String matricula, String nombre, String apellido) {
         this.matricula = matricula;
