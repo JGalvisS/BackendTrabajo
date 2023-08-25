@@ -2,27 +2,28 @@ package com.example.ProyectoJessiYAna.service;
 
 
 import com.example.ProyectoJessiYAna.daoOdontologo.IDaoOdontologo;
+import com.example.ProyectoJessiYAna.daoOdontologo.OdontologoDAOH2;
 import com.example.ProyectoJessiYAna.model.Odontologo;
 import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import java.util.List;
 
 @Service
 public class OdontologoService {
     private static final Logger logger= Logger.getLogger(OdontologoService.class);
-    private IDaoOdontologo<Odontologo> odontologoIDao;
+    @Autowired
+    private IDaoOdontologo<Odontologo> odontologoIDao=new OdontologoDAOH2();
 
 
-
-    public OdontologoService(IDaoOdontologo<Odontologo> odontologoIDao) {
-        this.odontologoIDao = odontologoIDao;
-    }
     public Odontologo guardarOdontolo (Odontologo odontologo){
         logger.info("Se llama a Odontologo Service para guardar");
         return odontologoIDao.guardar(odontologo);
     }
-    public void listarOdontologo( ){
+    public List<Odontologo> listarOdontologo( ){
         logger.info("Se llama a Odontologo Service para listar");
-        odontologoIDao.listar();
+        return odontologoIDao.listar();
     }
     public Odontologo buscarOdontologoPorID (Integer id){
         logger.info("Se llama a Odontologo Service para buscar por ID numero "+id);

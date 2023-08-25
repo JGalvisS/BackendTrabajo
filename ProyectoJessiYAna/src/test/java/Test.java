@@ -17,7 +17,7 @@ public class Test {
         Odontologo odontologo = new Odontologo("AB123", "Katherine", "Galvis");
         Odontologo odontologo1 = new Odontologo("AB456", "Ana", "Camargo");
         Odontologo odontologo3 = new Odontologo(1,"AB123","Jessica","Galvis");
-        OdontologoService service = new OdontologoService(new OdontologoDAOH2());
+        OdontologoService service = new OdontologoService();
 
         service.guardarOdontolo(odontologo);
         service.guardarOdontolo(odontologo1);

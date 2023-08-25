@@ -5,6 +5,9 @@ import org.apache.log4j.Logger;
 import org.springframework.stereotype.Component;
 
 import java.sql.*;
+import java.util.ArrayList;
+import java.util.List;
+
 @Component
 public class OdontologoDAOH2 implements IDaoOdontologo<Odontologo> {
     private static final Logger logguer = Logger.getLogger(OdontologoDAOH2.class);
@@ -42,14 +45,17 @@ public class OdontologoDAOH2 implements IDaoOdontologo<Odontologo> {
     }
 
     @Override
-    public void listar() {
+    public List<Odontologo> listar() {
         Connection connection= null;
+        List<Odontologo> odontologos= new ArrayList<>();
+        Odontologo odontologo = null;
         try {
             connection= BD.getConnection();
             Statement statement = connection.createStatement();
             ResultSet rs = statement.executeQuery(SQL_SELECT_All);
             while (rs.next()){
-                System.out.println("ID: "+rs.getInt(1)+" Numero matricula: "+rs.getString(2)+" Nombre: "+ rs.getString(3)+ " Apellido: "+ rs.getString(4));
+                odontologo = new Odontologo(rs.getInt(1),rs.getString(2),rs.getString(3),rs.getString(4));
+                odontologos.add(odontologo);
             }
             logguer.info("Se ha listado a todos los odontologos");
         }catch (Exception e){
@@ -61,6 +67,7 @@ public class OdontologoDAOH2 implements IDaoOdontologo<Odontologo> {
                 ex.printStackTrace();
             }
         }
+        return odontologos;
 
     }
 
