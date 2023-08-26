@@ -1,6 +1,6 @@
 package com.example.ProyectoJessiYAna;
 
-import com.example.ProyectoJessiYAna.dao.BD;
+import com.example.ProyectoJessiYAna.repository.BD;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

@@ -268,3 +268,13 @@
 [2023-08-25 02:50:50] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
 [2023-08-25 02:50:50] [ INFO ] [OdontologoService:29] Se llama a Odontologo Service para buscar por ID numero 1
 [2023-08-25 02:50:50] [ INFO ] [OdontologoDAOH2:87] Se ha encontrado al Odontologo buscado por ID
+[2023-08-25 21:51:39] [ INFO ] [BD:29] datos de prueba cargados exitosamente
+[2023-08-25 21:52:43] [ INFO ] [PacienteDAOH2:24] inicio de operaciones guarado de un paciente
+[2023-08-25 21:52:43] [ INFO ] [DomicilioDAOH2:20] inicio de operacion de : guardado de un domicilio 
+[2023-08-25 21:54:28] [ INFO ] [PacienteDAOH2:24] inicio de operaciones guarado de un paciente
+[2023-08-25 21:54:28] [ INFO ] [DomicilioDAOH2:20] inicio de operacion de : guardado de un domicilio 
+[2023-08-25 21:54:37] [ INFO ] [PacienteDAOH2:59] inicio de operacion de : BUSCADO 
+[2023-08-25 21:54:37] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-25 21:54:37] [ INFO ] [PacienteDAOH2:110] inicio de operacion de Actualizar paciente con ID : 4
+[2023-08-25 21:54:37] [ INFO ] [DomicilioDAOH2:99] inicio de operacion de Actualizar un Domicilio  : 4
+[2023-08-25 21:54:56] [ INFO ] [PacienteDAOH2:59] inicio de operacion de : BUSCADO 

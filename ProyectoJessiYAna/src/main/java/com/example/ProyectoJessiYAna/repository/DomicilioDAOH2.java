@@ -1,4 +1,4 @@
-package com.example.ProyectoJessiYAna.dao;
+package com.example.ProyectoJessiYAna.repository;
 
 import com.example.ProyectoJessiYAna.model.Domicilio;
 import org.apache.log4j.Logger;

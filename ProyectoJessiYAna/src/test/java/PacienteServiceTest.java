@@ -1,4 +1,4 @@
-import com.example.ProyectoJessiYAna.dao.BD;
+import com.example.ProyectoJessiYAna.repository.BD;
 import com.example.ProyectoJessiYAna.model.Paciente;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

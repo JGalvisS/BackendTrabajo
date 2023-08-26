@@ -1,4 +1,4 @@
-package com.example.ProyectoJessiYAna.dao;
+package com.example.ProyectoJessiYAna.repository;
 
 import org.springframework.stereotype.Component;
 
