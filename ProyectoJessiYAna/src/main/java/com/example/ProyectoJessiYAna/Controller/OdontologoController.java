@@ -10,22 +10,22 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping ("/odontologo")
+@RequestMapping ("/odontologos")
 public class OdontologoController {
     @Autowired
     private OdontologoService odontologoService = new OdontologoService();
 
-    @PostMapping("/guardar")
+    @PostMapping
     private ResponseEntity<Odontologo> registrarOdontologo(@RequestBody Odontologo odontologo){
         return ResponseEntity.ok( odontologoService.guardarOdontolo(odontologo));
     }
 
-    @GetMapping("/buscar/{id}")
+    @GetMapping("/{id}")
     public ResponseEntity<Odontologo> busccarOdontologoPorID(@PathVariable("id") Integer id){ //PathVariable permite hacer match con el endpoint por eso lo que va entre parentecis debe ser igual a la descripcio dada en el getmapping
         return ResponseEntity.ok( odontologoService.buscarOdontologoPorID(id));
     }
 
-    @DeleteMapping("/delete/{id}")
+    @DeleteMapping("/{id}")
     public ResponseEntity<String> eliminarOdontologo(@PathVariable("id") Integer id){
         String respuesta= null;
         if (odontologoService.buscarOdontologoPorID(id).getId()==id){
@@ -36,7 +36,7 @@ public class OdontologoController {
             return new ResponseEntity<>(respuesta,HttpStatus.BAD_REQUEST);
         }
     }
-    @PutMapping("/actualizar")
+    @PutMapping
     public ResponseEntity<String> actualizarOdontologo(@RequestBody Odontologo odontologo){
         Odontologo odontologobuscado = odontologoService.buscarOdontologoPorID(odontologo.getId());
         String respuesta= null;
@@ -51,7 +51,7 @@ public class OdontologoController {
 
         }
     }
-    @GetMapping("/listar")
+    @GetMapping
     public ResponseEntity<List<Odontologo>> listarOdontologo(){
         return ResponseEntity.ok( odontologoService.listarOdontologo());
     }

@@ -18,7 +18,7 @@ public class TurnoController {
     private TurnoService turnoService=new TurnoService();
 
 
-    @PostMapping("/guardar")
+    @PostMapping
     public ResponseEntity<Turno> registrarTurno(@RequestBody Turno turno){// del lado del cliente me envian un body con informacion para construir un objeto de tipo turno
         //aca tengo que filtar
         OdontologoService odontologoService = new OdontologoService();
@@ -30,11 +30,11 @@ public class TurnoController {
             return ResponseEntity.badRequest().build();//build me va a permitir autocontruir una respuesta
         }
     }
-    @GetMapping("/buscar/{id}")
+    @GetMapping("/{id}")
     public ResponseEntity<Turno> buscarTurnoPorID (@PathVariable("id")Integer id){
        return ResponseEntity.ok(turnoService.buscarPorId(id));
     }
-    @DeleteMapping("/delete/{id}")
+    @DeleteMapping("/{id}")
     public ResponseEntity<String> eliminarTurno (@PathVariable("id")Integer id){
         String respuesta= null;
         if (turnoService.buscarPorId(id).getId()==id){
@@ -47,7 +47,7 @@ public class TurnoController {
 
         }
     }
-    @PutMapping("/actualizar")
+    @PutMapping
     public ResponseEntity<String> actualizarTurno(@RequestBody Turno turno){
         OdontologoService odontologoService = new OdontologoService();
         PacienteService pacienteService= new PacienteService();
@@ -62,7 +62,7 @@ public class TurnoController {
             return new ResponseEntity<>(respuesta,HttpStatus.BAD_REQUEST);
         }
     }
-    @GetMapping("/listar")
+    @GetMapping
     public ResponseEntity<List<Turno>> listarturnos (){// con la response entity voy a poder decidir que tipo de respuesta quiero dar
         return ResponseEntity.ok( turnoService.listarTodosLosTurnos());// le digo que de esto voy a querer un ok = 200
     }

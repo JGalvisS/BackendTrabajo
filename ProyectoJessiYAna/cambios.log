@@ -278,3 +278,84 @@
 [2023-08-25 21:54:37] [ INFO ] [PacienteDAOH2:110] inicio de operacion de Actualizar paciente con ID : 4
 [2023-08-25 21:54:37] [ INFO ] [DomicilioDAOH2:99] inicio de operacion de Actualizar un Domicilio  : 4
 [2023-08-25 21:54:56] [ INFO ] [PacienteDAOH2:59] inicio de operacion de : BUSCADO 
+[2023-08-29 10:29:06] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-29 14:55:31] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-29 14:56:02] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 14:56:02] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 15:04:58] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-29 15:05:09] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 15:05:09] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 15:05:10] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 15:05:10] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 15:05:17] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 15:05:17] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 15:06:46] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-29 15:06:54] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 15:06:54] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 15:06:56] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 15:06:56] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 15:07:03] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 15:07:03] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 15:08:55] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 15:08:55] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 15:08:56] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 15:08:56] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 15:08:57] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 15:08:57] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 15:08:57] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 15:08:57] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 15:08:57] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 15:08:57] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 15:15:27] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-29 15:15:49] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 15:15:49] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 15:15:56] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 15:15:56] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 15:16:01] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 15:16:01] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 15:16:01] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 15:16:01] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 15:23:53] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-29 15:24:33] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 15:24:33] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 15:26:34] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-29 15:26:51] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 15:26:51] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 15:27:32] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-29 15:27:48] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 15:27:48] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 16:11:47] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-29 16:15:11] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 16:15:11] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 16:20:03] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 16:20:03] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 16:20:18] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 16:20:18] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 16:21:02] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 16:21:02] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-08-29 16:21:09] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-08-29 16:21:09] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-09-01 11:53:25] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-09-01 11:54:21] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-09-01 11:54:21] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-09-01 11:54:50] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-09-01 11:54:50] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-09-01 11:55:26] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-09-01 11:55:26] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-09-01 12:01:45] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-09-01 12:02:22] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-09-01 12:02:22] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-09-01 12:07:43] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-09-01 12:09:51] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-09-01 12:10:01] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-09-01 12:10:01] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-09-01 12:10:10] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-09-01 12:10:10] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-09-01 12:13:52] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-09-01 12:25:05] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-09-01 12:25:42] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-09-01 12:25:42] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-09-01 12:26:16] [ INFO ] [OdontologoService:21] Se llama a Odontologo Service para guardar
+[2023-09-01 12:26:16] [ INFO ] [OdontologoDAOH2:33] Se ha guardado los datos del odontologo en la base de datos
+[2023-09-01 12:26:29] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
+[2023-09-01 12:26:29] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos

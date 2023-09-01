@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <title>post_odontologos</title>
+</head>
+<body>
+    <header>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+        <a class="navbar-brand" href="./index.html" style="color:rgb(18, 86, 212);" >Clinica Odontologica</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="./index.html">Home</a>
+            </li>
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Paciente
+                </a>
+                <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="./post_pacientes.html">Guardar</a></li>
+                <li><a class="dropdown-item" href="./get_all_pacientes.html">Listar</a></li>
+
+                </ul>
+            </li>
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Turno
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="./post_turnos.html">Guardar</a></li>
+                    <li><a class="dropdown-item" href="./get_all_turnos.html">Listar</a></li>
+
+                </ul>
+            </li>
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Odontologo
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="./post_odontologos.html">Guardar</a></li>
+                    <li><a class="dropdown-item" href="./get_all_odontologos.html">Listar</a></li>
+                </ul>
+            </li>
+
+            </ul>
+        </div>
+        </div>
+    </nav >
+    </header>
+
+    <main>
+        <div class="row">
+            <div class="col-sm-7" style="background-color:#e6fffa; padding:10px; border-radius:3px">
+                <h3>Agregar Odontologo</h3>
+                <form id="add_new_odontologo">
+                    <div class="form-group">
+                        <label class="control-label" for="nombre">nombre:</label>
+                        <input type="text" class="form-control" id="nombre" placeholder="Ingrese el nombre" name="nombre" required></input>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label" for="apellido">Apellido:</label>
+                        <input type="text" class="form-control" id="apellido" placeholder="Ingrese el apellido" name="apellido" required></input>
+                    </div>
+    
+                    <div class="form-group">
+                        <label class="control-label" for="matricula">Matricula:</label>
+                        <input type="text" class="form-control" id="matricula" placeholder="Ingrese la matricula" name="premios" required></input>
+                    </div>
+    
+    
+                    <button type="submit" class="btn btn-danger" id="btn-add-new-premio">Guardar</button>
+                </form>
+                <div id="response" style="display:none; margin-top:10px">
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+<script type="text/javascript" src="./js/post_odontologos.js"></script>
+</body>
+</html>

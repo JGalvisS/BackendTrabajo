@@ -18,15 +18,15 @@ public class PacienteController {
     @Autowired
     private PacienteService pacienteService = new PacienteService();
 
-    @PostMapping ("/guardar")// me va permitir crear un nuevo paciente
+    @PostMapping // me va permitir crear un nuevo paciente
     public ResponseEntity<Paciente> registrarPaciente(@RequestBody Paciente paciente){// el Requestbody indica que del lado del cliente me va a llegar la informacion en formato json para construir un objeto de tipo Paciente
         return ResponseEntity.ok( pacienteService.guardarPaciente(paciente));
     }
-    @GetMapping("/buscatar/{id}")// esto va a tener que ser parte del endpoint, en este caso el numero de id
+    @GetMapping("/{id}")// esto va a tener que ser parte del endpoint, en este caso el numero de id
     public ResponseEntity<Paciente> busccarPacientePorID(@PathVariable("id") Integer id){ //PathVariable permite hacer match con el endpoint por eso lo que va entre parentecis debe ser igual a la descripcio dada en el getmapping
         return ResponseEntity.ok( pacienteService.buscarPorID(id));
     }
-    @DeleteMapping("/delete/{id}")
+    @DeleteMapping("/{id}")
     public ResponseEntity<String> eliminarPaciente(@PathVariable("id") Integer id){
         String respuesta= null;
         if (pacienteService.buscarPorID(id).getId()==id){
@@ -41,7 +41,7 @@ public class PacienteController {
 
     }
 
-    @PutMapping("/actualizar")
+    @PutMapping
     public ResponseEntity<String> actualizarPaciente(@RequestBody Paciente paciente ){
         Paciente pacienteBuscado= pacienteService.buscarPorID(paciente.getId());
         String respuesta= null;
@@ -57,7 +57,7 @@ public class PacienteController {
     }
 
 
-    @GetMapping("/listar")
+    @GetMapping
     public ResponseEntity<List<Paciente>> listarPacientes(){
         return ResponseEntity.ok(pacienteService.obtenerPacientes());
     }
