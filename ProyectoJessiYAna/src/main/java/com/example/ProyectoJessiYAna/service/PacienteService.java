@@ -1,39 +1,38 @@
 package com.example.ProyectoJessiYAna.service;
 
-import com.example.ProyectoJessiYAna.repository.PacienteDAOH2;
-import com.example.ProyectoJessiYAna.repository.iDao;
-import com.example.ProyectoJessiYAna.model.Paciente;
-import org.apache.log4j.Logger;
+import com.example.ProyectoJessiYAna.entity.Paciente;
+import com.example.ProyectoJessiYAna.repository.PacienteRepository;
+import lombok.extern.log4j.Log4j;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.Optional;
+
 @Service
+@Slf4j(topic = "Llama al Service de Paciente")
 public class PacienteService {
-    private static final Logger logger= Logger.getLogger(OdontologoService.class);
-    @Autowired
-    private iDao<Paciente> pacienteiDao= new PacienteDAOH2();
-    public Paciente guardarPaciente(Paciente paciente){
-        logger.info("Se llama a Paciente Service para guardar");
-        return pacienteiDao.guardar(paciente);
+    @Autowired // se va autoinyectar cada que sea necesaria o llamada
+    private PacienteRepository pacienteRepository; //crea una asociacion con la interface PacienteRepository que tiene los metodos de percisitencia
+    //metodos manuales
+    public Paciente guardarPaciente (Paciente paciente){
+        return pacienteRepository.save(paciente);
     }
-    public Paciente buscarPorID(Integer id){
-        logger.info("Se llama a Paciente Service para buscar por ID numero "+id);
-        return pacienteiDao.buscar(id);
+    public void actualizarPaciente (Paciente paciente){
+        pacienteRepository.save(paciente);
     }
-    public void eliminarPaciente(Integer id){
-        logger.info("Se llama a Paciente Service para eliminar a este Paciente de la base de datos");
-        pacienteiDao.eliminar(id);
+    public void eliminarPaciente (Long id){
+        pacienteRepository.deleteById(id);
     }
-    public void actualizarPaciente(Paciente paciente){
-        logger.info("Se llama a Paciente Service para actualizar al Paciente con id "+paciente.getId());
-        pacienteiDao.actualizar(paciente);
+    public List<Paciente> listarTodos(){
+        return pacienteRepository.findAll();
     }
-    public List<Paciente> obtenerPacientes(){
-        logger.info("Se llama a Paciente Service para listar");
-        return pacienteiDao.buscarTodos();
+    public Optional<Paciente> buscarPorId(Long id){
+        return  pacienteRepository.findById(id);
     }
-    public Paciente buscarPorEmail(String correo){
-        logger.info("Se llama a Paciente Service para buscar al paciente  con el correo "+ correo);
-        return pacienteiDao.buscarPorString(correo); }
+    public Optional<Paciente> buscarPorEmail(String email){
+        return  pacienteRepository.findByEmail(email);
+    }
+
 }

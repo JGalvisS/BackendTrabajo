@@ -1,15 +1,14 @@
 package com.example.ProyectoJessiYAna.Controller;
 
-import com.example.ProyectoJessiYAna.model.Paciente;
+import com.example.ProyectoJessiYAna.entity.Paciente;
 import com.example.ProyectoJessiYAna.service.PacienteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import java.util.Optional;
 
 //@Controller// asi va trabajando con vista o en este caso con thymeleaf
 @RestController // cuantro no trabajo con vista
@@ -22,14 +21,19 @@ public class PacienteController {
     public ResponseEntity<Paciente> registrarPaciente(@RequestBody Paciente paciente){// el Requestbody indica que del lado del cliente me va a llegar la informacion en formato json para construir un objeto de tipo Paciente
         return ResponseEntity.ok( pacienteService.guardarPaciente(paciente));
     }
-    @GetMapping("/{id}")// esto va a tener que ser parte del endpoint, en este caso el numero de id
-    public ResponseEntity<Paciente> busccarPacientePorID(@PathVariable("id") Integer id){ //PathVariable permite hacer match con el endpoint por eso lo que va entre parentecis debe ser igual a la descripcio dada en el getmapping
-        return ResponseEntity.ok( pacienteService.buscarPorID(id));
+    @GetMapping("/buscar/{id}")// esto va a tener que ser parte del endpoint, en este caso el numero de id
+    public ResponseEntity<Optional<Paciente>> busccarPacientePorID(@PathVariable("id") Long id){ //PathVariable permite hacer match con el endpoint por eso lo que va entre parentecis debe ser igual a la descripcio dada en el getmapping
+        return ResponseEntity.ok( pacienteService.buscarPorId(id));
+    }
+    @GetMapping("/buscar/{email}")// esto va a tener que ser parte del endpoint, en este caso el numero de id
+    public ResponseEntity<Optional<Paciente>> busccarPacientePorEmail(@PathVariable("email") String email){ //PathVariable permite hacer match con el endpoint por eso lo que va entre parentecis debe ser igual a la descripcio dada en el getmapping
+        return ResponseEntity.ok( pacienteService.buscarPorEmail(email));
     }
     @DeleteMapping("/{id}")
-    public ResponseEntity<String> eliminarPaciente(@PathVariable("id") Integer id){
+    public ResponseEntity<String> eliminarPaciente(@PathVariable("id") Long id){
+        Optional<Paciente> pacienteBuscado=pacienteService.buscarPorId(id);
         String respuesta= null;
-        if (pacienteService.buscarPorID(id).getId()==id){
+        if (pacienteBuscado.isPresent()){
             pacienteService.eliminarPaciente(id);
             respuesta= "El paciente ha sido eliminado";
             return new ResponseEntity<>(respuesta,HttpStatus.OK);
@@ -43,9 +47,9 @@ public class PacienteController {
 
     @PutMapping
     public ResponseEntity<String> actualizarPaciente(@RequestBody Paciente paciente ){
-        Paciente pacienteBuscado= pacienteService.buscarPorID(paciente.getId());
+        Optional <Paciente> pacienteBuscado= pacienteService.buscarPorId(paciente.getId());
         String respuesta= null;
-        if(pacienteBuscado!= null){
+        if(pacienteBuscado.isPresent()){
             pacienteService.actualizarPaciente(paciente);
             respuesta = "Paciente con ID " + paciente.getId()+" ha sido actualizado con exito ";
             return new ResponseEntity<>(respuesta,HttpStatus.OK);
@@ -59,17 +63,8 @@ public class PacienteController {
 
     @GetMapping
     public ResponseEntity<List<Paciente>> listarPacientes(){
-        return ResponseEntity.ok(pacienteService.obtenerPacientes());
+        return ResponseEntity.ok(pacienteService.listarTodos());
     }
 
-    /*@GetMapping
-    public String buscarPorCorreo(Model model, @RequestParam ("email")String correo){
-        //busqueda la tiene en el paciente
-        Paciente paciente= pacienteService.buscarPorEmail(correo);
-        model.addAttribute("nombre",paciente.getNombre());
-        model.addAttribute("apellido",paciente.getApellido());
-        //estos resultados se los debo pasar a la vista
-        return "index";
-    }*/
 
 }

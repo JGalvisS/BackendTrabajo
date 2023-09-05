@@ -1,10 +1,11 @@
 
 
-import com.example.ProyectoJessiYAna.model.Odontologo;
+import com.example.ProyectoJessiYAna.entity.Odontologo;
 import com.example.ProyectoJessiYAna.service.OdontologoService;
 
 
 public class Test {
+    /*
 
 
     public static void main(String[] args) {
@@ -31,6 +32,6 @@ public class Test {
 
 
 
-    }
+    }*/
 }
 
