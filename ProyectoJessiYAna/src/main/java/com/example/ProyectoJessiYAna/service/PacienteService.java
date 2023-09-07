@@ -12,7 +12,6 @@ import java.util.List;
 import java.util.Optional;
 
 @Service
-
 public class PacienteService {
 
     private static final Logger logger = Logger.getLogger(PacienteService.class);

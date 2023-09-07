@@ -359,3 +359,15 @@
 [2023-09-01 12:26:16] [ INFO ] [OdontologoDAOH2:33] Se ha guardado los datos del odontologo en la base de datos
 [2023-09-01 12:26:29] [ INFO ] [OdontologoService:25] Se llama a Odontologo Service para listar
 [2023-09-01 12:26:29] [ INFO ] [OdontologoDAOH2:136] Se ha listado a todos los odontologos
+[2023-09-07 14:45:15] [ INFO ] [OdontologoController:23] Se llama a Odontologo Controller
+[2023-09-07 14:45:15] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-07 14:45:19] [ INFO ] [OdontologoController:64] Se llama a Odontologo Controller
+[2023-09-07 14:45:19] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-07 15:17:22] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-07 15:17:22] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-07 15:17:22] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-07 15:17:22] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-07 15:17:22] [ INFO ] [PacienteService:26] Se llama a Paciente Service para actualizar
+[2023-09-07 15:17:22] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-07 15:17:22] [ INFO ] [PacienteService:30] Se llama a Paciente Service para eliminar
+[2023-09-07 15:17:22] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id

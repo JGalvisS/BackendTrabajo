@@ -1,9 +1,6 @@
 package com.example.ProyectoJessiYAna.entity;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import lombok.*;
 import org.springframework.stereotype.Component;
 
 import javax.persistence.*;
@@ -11,8 +8,6 @@ import javax.persistence.*;
 @Entity
 @Getter
 @Setter
-@AllArgsConstructor
-@NoArgsConstructor
 @Table(name = "domicilios")
 public class Domicilio {
     @Id
@@ -26,4 +21,21 @@ public class Domicilio {
     private String localidad;
     @Column
     private String provincia;
+
+    public Domicilio() {}
+
+    public Domicilio(String calle, Integer numero, String localidad, String provincia) {
+        this.calle = calle;
+        this.numero = numero;
+        this.localidad = localidad;
+        this.provincia = provincia;
+    }
+
+    public Domicilio(Long id, String calle, Integer numero, String localidad, String provincia) {
+        this.id = id;
+        this.calle = calle;
+        this.numero = numero;
+        this.localidad = localidad;
+        this.provincia = provincia;
+    }
 }
