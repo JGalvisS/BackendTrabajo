@@ -27,7 +27,7 @@ public class TurnoService {
         turnoDTO.setPacienteId(turno.getPaciente().getId());
         return turnoDTO;
     }
-    private Turno turnoDTOaTurno(TurnoDTO turnoDTO){
+    /*private Turno turnoDTOaTurno(TurnoDTO turnoDTO){
         Turno turno = new Turno();
         Paciente paciente = new Paciente();
         //Odontologo odontologo = new Odontologo();
@@ -39,7 +39,10 @@ public class TurnoService {
         //turno.setOdontologo(odontologo);// luego le cargo ese valor a turno
         turno.setPaciente(paciente);
         return turno;
-    }
+    }*/ //ATRIBUTO INCOMPLETO, PARA QUE FUNCIONE crear un if y preguntar si ese id esta presente, luego debo setear uno por uno los atributos de paciente y de odontologo
+
+
+
     //metodos manueales
     public TurnoDTO guardarTurno(Turno turno){
         Turno turnoAGuardar= turnoRepository.save(turno);
