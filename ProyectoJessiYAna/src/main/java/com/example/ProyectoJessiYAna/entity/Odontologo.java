@@ -26,8 +26,6 @@ public class Odontologo {
     private String nombre;
     @Column
     private String apellido;
-    @Column(unique = true)// para que sea unico
-    private String email;
     @OneToMany(mappedBy = "odontologo", fetch = FetchType.LAZY)
     private Set<Turno> turnos = new HashSet<>();
 }

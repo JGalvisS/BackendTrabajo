@@ -5,6 +5,7 @@ import com.example.ProyectoJessiYAna.entity.Turno;
 import com.example.ProyectoJessiYAna.service.OdontologoService;
 import com.example.ProyectoJessiYAna.service.PacienteService;
 import com.example.ProyectoJessiYAna.service.TurnoService;
+import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -16,6 +17,7 @@ import java.util.Optional;
 @RestController
 @RequestMapping("/turno")
 public class TurnoController {
+    private static final Logger logger = Logger.getLogger(TurnoController.class);
     private TurnoService turnoService;
     OdontologoService odontologoService;
     PacienteService pacienteService;
@@ -28,6 +30,7 @@ public class TurnoController {
 
     @PostMapping
     public ResponseEntity<TurnoDTO> registrarTurno(@RequestBody Turno turno){// del lado del cliente me envian un body con informacion para construir un objeto de tipo turno
+        logger.info("Se llama a Paciente Controller");
         //aca tengo que filtar
 
         if(pacienteService.buscarPorId(turno.getPaciente().getId()).isPresent() &&  odontologoService.buscarPorId(turno.getOdontologo().getId()).isPresent()){
@@ -39,6 +42,7 @@ public class TurnoController {
     }
     @GetMapping("/buscar/{id}")
     public ResponseEntity<TurnoDTO> buscarTurnoPorID (@PathVariable("id")Long id){
+        logger.info("Se llama a Paciente Controller");
         Optional<TurnoDTO> turnoDTO = turnoService.buscarPorId(id);
         if(turnoDTO.isPresent()){
             return ResponseEntity.ok(turnoDTO.get());// el get es necesario para obtener traer al dto
@@ -48,6 +52,7 @@ public class TurnoController {
     }
     @DeleteMapping("/{id}")
     public ResponseEntity<String> eliminarTurno (@PathVariable("id")Long id){
+        logger.info("Se llama a Paciente Controller");
         //Optional<TurnoDTO> turnoAEliminar=turnoService.buscarPorId(id);<----- Linea del profe que no le encuentro sentido
         String respuesta= null;
         if (turnoService.buscarPorId(id).isPresent()){
@@ -62,6 +67,7 @@ public class TurnoController {
     }
     @PutMapping
     public ResponseEntity<String> actualizarTurno(@RequestBody Turno turno){
+        logger.info("Se llama a Paciente Controller");
         String respuesta=null;
         if(pacienteService.buscarPorId(turno.getPaciente().getId()).isPresent() &&  odontologoService.buscarPorId(turno.getOdontologo().getId()).isPresent()){
             //sí ambos existen o estan presentes
@@ -75,6 +81,7 @@ public class TurnoController {
     }
     @GetMapping
     public ResponseEntity<List<TurnoDTO>> listarturnos (){// con la response entity voy a poder decidir que tipo de respuesta quiero dar, en este caso una una lista de turnoDTO
+        logger.info("Se llama a Paciente Controller");
         return ResponseEntity.ok( turnoService.listarTodos());// le digo que de esto voy a querer un ok = 200
     }
 

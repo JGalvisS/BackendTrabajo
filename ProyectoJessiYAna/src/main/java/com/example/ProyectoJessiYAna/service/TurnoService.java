@@ -7,6 +7,7 @@ import com.example.ProyectoJessiYAna.entity.Turno;
 import com.example.ProyectoJessiYAna.repository.TurnoRepository;
 import lombok.extern.log4j.Log4j;
 import lombok.extern.slf4j.Slf4j;
+import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -15,8 +16,9 @@ import java.util.List;
 import java.util.Optional;
 
 @Service
-@Slf4j(topic = "Llama al Service de Turno")
 public class TurnoService {
+    private static final Logger logger = Logger.getLogger(TurnoService.class);
+
     @Autowired
     private TurnoRepository turnoRepository;
     private TurnoDTO turnoATurnoDTO(Turno turno){// cunvierto un Turno a un TurnoDTO que entregara solo la informacion requerida de visibilizar
@@ -25,6 +27,8 @@ public class TurnoService {
         turnoDTO.setFecha(turno.getFecha());
         turnoDTO.setOdontologoId(turno.getOdontologo().getId());
         turnoDTO.setPacienteId(turno.getPaciente().getId());
+        logger.info("Se llama a Turno Service convertir turno a turnoDTO");
+
         return turnoDTO;
     }
     /*private Turno turnoDTOaTurno(TurnoDTO turnoDTO){
@@ -45,16 +49,20 @@ public class TurnoService {
 
     //metodos manueales
     public TurnoDTO guardarTurno(Turno turno){
+        logger.info("Se llama a Turno Service para guardar");
         Turno turnoAGuardar= turnoRepository.save(turno);
         return turnoATurnoDTO(turnoAGuardar);
     }
     public void actualizarTurno(Turno turno){
+        logger.info("Se llama a Turno Service para actualizar");
         turnoRepository.save(turno);
     }
     public void eliminarTurno (Long id){
+        logger.info("Se llama a Turno Service para eliminar");
         turnoRepository.deleteById(id);
     }
     public Optional<TurnoDTO> buscarPorId (Long id){
+        logger.info("Se llama a Turno Service para buscar por id");
         Optional<Turno> turnoBuscado = turnoRepository.findById(id);// en esta linea busca el turno con ese ID y lo almacena en un Optional
         if(turnoBuscado.isPresent()){// pregunto si ese turno esta presente
             return Optional.of(turnoATurnoDTO(turnoBuscado.get()));// sí esta presente devuelve un Optional del turnoBuscado que ejecutara turnoAturnoDTO
@@ -63,6 +71,7 @@ public class TurnoService {
         }
     }
     public List<TurnoDTO> listarTodos(){
+        logger.info("Se llama a Turno Service para listar turnos");
         List<Turno> listaDeTurnos= turnoRepository.findAll();//aqui busco todos los turnos
         List<TurnoDTO> listaTurnoDTO = new ArrayList<>();// creo un array vacio que recibira una turnosDTO
         for (Turno turno:listaDeTurnos
