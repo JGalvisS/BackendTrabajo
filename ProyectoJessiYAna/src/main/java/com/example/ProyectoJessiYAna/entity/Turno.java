@@ -9,8 +9,6 @@ import java.time.LocalDate;
 @Entity
 @Getter
 @Setter
-@AllArgsConstructor
-@NoArgsConstructor
 @Table(name = "turnos")
 public class Turno {
     @Id
@@ -25,5 +23,18 @@ public class Turno {
     @Column
     private LocalDate fecha;
 
+    public Turno() {}
 
+    public Turno(Paciente paciente, Odontologo odontologo, LocalDate fecha) {
+        this.paciente = paciente;
+        this.odontologo = odontologo;
+        this.fecha = fecha;
+    }
+
+    public Turno(Long id, Paciente paciente, Odontologo odontologo, LocalDate fecha) {
+        this.id = id;
+        this.paciente = paciente;
+        this.odontologo = odontologo;
+        this.fecha = fecha;
+    }
 }
