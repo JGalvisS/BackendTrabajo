@@ -26,6 +26,7 @@ public class PacienteServiceTest {
             //DADO
             Paciente pacienteAGuardar= new Paciente("Jorgito","Pereyra","1234", LocalDate.of(2023,9,05),new Domicilio("calle 1",11,"La Rioja","La Rioja"),"jorge.pereyra@digitalhouse.com");
             Paciente pacientePrueba = new Paciente("Ana","Camargo","4561", LocalDate.of(2023,6,02),new Domicilio("calle 2",12,"Colonia","Valdense"),"noicam2@gmail.com");
+            Paciente pacientePrueba2 =new Paciente("Ana Maria","Camargo Galvis","4561", LocalDate.of(2023,6,02),new Domicilio("calle 28",123,"Colonia","Valdense"),"noicamaria2@gmail.com");
             //CUANDO
             pacienteService.guardarPaciente(pacienteAGuardar);
             pacienteService.guardarPaciente(pacientePrueba);
