@@ -1,6 +1,7 @@
 package com.example.ProyectoJessiYAna.Controller;
 
 import com.example.ProyectoJessiYAna.entity.Paciente;
+import com.example.ProyectoJessiYAna.exception.ResourceNotFoundException;
 import com.example.ProyectoJessiYAna.service.PacienteService;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -36,7 +37,7 @@ public class PacienteController {
         return ResponseEntity.ok( pacienteService.buscarPorEmail(email));
     }
     @DeleteMapping("/{id}")
-    public ResponseEntity<String> eliminarPaciente(@PathVariable("id") Long id){
+    public ResponseEntity<String> eliminarPaciente(@PathVariable("id") Long id)throws ResourceNotFoundException{ // con throwos le digo que voy a ejecutar una exception
         logger.info("Se llama a Paciente Controller");
         Optional<Paciente> pacienteBuscado=pacienteService.buscarPorId(id);
         String respuesta= null;
@@ -46,8 +47,10 @@ public class PacienteController {
             return new ResponseEntity<>(respuesta,HttpStatus.OK);
             //return ResponseEntity.status(HttpStatus.CREATED).build();
 
-        }else {respuesta="El paciente no pudo ser eliminado";
-            return new ResponseEntity<>(respuesta,HttpStatus.BAD_REQUEST);
+        }else {
+            //respuesta="El paciente no pudo ser eliminado"; <-----SIN MANEJO DE EXPTION
+            //return new ResponseEntity<>(respuesta,HttpStatus.BAD_REQUEST);  <-----SIN MANEJO DE EXPTION
+            throw new ResourceNotFoundException("No existe el paciente ha eliminar");// y va a ser capturado por el ControllerAdvice
         }
 
     }

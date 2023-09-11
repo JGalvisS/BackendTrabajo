@@ -1,6 +1,7 @@
 package com.example.ProyectoJessiYAna.Controller;
 
 import com.example.ProyectoJessiYAna.entity.Odontologo;
+import com.example.ProyectoJessiYAna.exception.ResourceNotFoundException;
 import com.example.ProyectoJessiYAna.service.OdontologoService;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -31,7 +32,7 @@ public class OdontologoController {
     }
 
     @DeleteMapping("/{id}")
-    public ResponseEntity<String> eliminarOdontologo(@PathVariable("id") Long id){
+    public ResponseEntity<String> eliminarOdontologo(@PathVariable("id") Long id) throws ResourceNotFoundException {
         logger.info("Se llama a Odontologo Controller");
         Optional <Odontologo> odontologoBuscado = odontologoService.buscarPorId(id);
         String respuesta= null;
@@ -39,8 +40,10 @@ public class OdontologoController {
             odontologoService.eliminarOdontologo(id);
             respuesta= "El odontologo ha sido eliminado";
             return new ResponseEntity<>(respuesta, HttpStatus.OK);
-        }else {respuesta="El odontologo no pudo ser eliminado";
-            return new ResponseEntity<>(respuesta,HttpStatus.BAD_REQUEST);
+        }else {
+            //respuesta="El odontologo no pudo ser eliminado"; <-----SIN MANEJO DE EXPTION
+            //return new ResponseEntity<>(respuesta,HttpStatus.BAD_REQUEST); <-----SIN MANEJO DE EXPTION
+            throw  new ResourceNotFoundException("No existe el Odontologo ha eliminar");
         }
     }
     @PutMapping

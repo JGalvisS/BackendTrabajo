@@ -21,7 +21,7 @@ public class OdontologoServiceTest {
     @Order(1)
     public void guardarOdontologo(){
         //DADO
-        Odontologo odontologo1= new Odontologo("ABC1223","Jessi","Galvis");
+        Odontologo odontologo1= new Odontologo("ABC1223","Jessica","Galvis");
         Odontologo odontologo2= new Odontologo("DFG456","Ana","Camargo");
         Odontologo odontologo3= new Odontologo("HIJ789","Katherine","Camargo");
         //CUANDO
