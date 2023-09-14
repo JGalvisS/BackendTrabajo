@@ -99,4 +99,15 @@ public class TurnoServiceTest {
             Optional<TurnoDTO> turnoEliminado= turnoService.buscarPorId(idEliminar);
             assertFalse(turnoEliminado.isPresent());
         }
+    @Test
+    @Order(6)
+    public void guardarTurnoID(){
+        //DADO
+        Turno turno1=new Turno(pacienteService.buscarPorId(1L).get(),odontologoService.buscarPorId(1L).get(), LocalDate.of(2023,9,25));
+        //CUANDO
+        turnoService.guardarTurno(turno1);
+
+        //ENTONCES
+        assertEquals(4L,turno1.getId());
+    }
     }
