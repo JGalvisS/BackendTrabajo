@@ -38,12 +38,16 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
         http
                 .csrf().disable()// desabilita el scaner ne malware
                 .authorizeRequests()//autorizo las request
-                .antMatchers("get_turnos.html","/turnos" /* aqui van los end point a los que mi usuario va a tener acceso */).hasRole("USER")//aqui va lo que va a tener acceso mi roluser
-                .anyRequest()// todas las solitudes que quiera hacer ese rol
-                .authenticated()// debera estar autenticado
+                    .antMatchers("/index.html","/").permitAll() // para que permita el ingreso al index a cualquiera
+                    .antMatchers("/turno","/servicios.html" /* aqui van los end point a los que mi usuario va a tener acceso */).hasRole("USER")//aqui va lo que va a tener acceso mi roluser
+                    .antMatchers("/turno","/odontologos","paciente","/servicios.html").hasRole("ADMIN")
+                    .anyRequest()// todas las solitudes que quiera hacer ese rol
+                    .authenticated()// debera estar autenticado
                 .and()
                 .formLogin()// y tener un formulario loguing que provee spring de forma basica
+                    .defaultSuccessUrl("/servicios.html")// para que al loguearse lo envie a servicios
                 .and()
                 .logout();// y tener un logout
+
     }
 }

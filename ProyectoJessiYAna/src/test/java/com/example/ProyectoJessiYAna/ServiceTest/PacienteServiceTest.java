@@ -30,15 +30,16 @@ public class PacienteServiceTest {
             //CUANDO
             pacienteService.guardarPaciente(pacienteAGuardar);
             pacienteService.guardarPaciente(pacientePrueba);
+            pacienteService.guardarPaciente(pacientePrueba2);
             //ENTONCES
-            assertEquals(1L,pacienteAGuardar.getId());
+            assertEquals(4L,pacienteAGuardar.getId());
 
         }
         @Test
         @Order(2)
         public void buscarPorIdTest(){
             //DADO
-            Long idAbuscar= 1L;
+            Long idAbuscar= 4L;
             //CUANDO
             Optional<Paciente> pacienteABuscado= pacienteService.buscarPorId(idAbuscar);
             //ENTONCES
@@ -50,7 +51,7 @@ public class PacienteServiceTest {
             //DADO Y CUANDO
             List<Paciente> listaPaciente= pacienteService.listarTodos();
             //ENTONCES
-            assertEquals(2,listaPaciente.size());
+            assertEquals(6,listaPaciente.size());
         }
         @Test
         @Order(4)
@@ -67,13 +68,13 @@ public class PacienteServiceTest {
         @Order(5)
         public void actualizarPaciente(){
             //DADO
-            Long idABuscar= 1L;
+            Long idABuscar= 4L;
             if(pacienteService.buscarPorId(idABuscar).isPresent()){// primero buscamos por un id y si ese paciente esta presente
                 Paciente pacienteAGuardar= new Paciente(idABuscar,"Agustin","Pereyra","1234", LocalDate.of(2023,9,05),new Domicilio("calle 1",11,"La Rioja","La Rioja"),"jorge.pereyra@digitalhouse.com");
                 //CUANDO
                 pacienteService.actualizarPaciente(pacienteAGuardar); //actualizamos con los nuevos datos de pacienteAGuardar
                 //ENTONCES
-                Optional<Paciente> pacienteActualizado= pacienteService.buscarPorId(1L);// buscamos nuevamente el id
+                Optional<Paciente> pacienteActualizado= pacienteService.buscarPorId(4L);// buscamos nuevamente el id
                 assertEquals("Agustin",pacienteActualizado.get().getNombre());// comparamos los nombre
 
             }
@@ -82,7 +83,7 @@ public class PacienteServiceTest {
         @Order(6)
         public void eliminarPaciente(){
             //DADO
-            Long idEliminar= 1L;
+            Long idEliminar= 4L;
             //CUANDO
             pacienteService.eliminarPaciente(idEliminar);
             Optional<Paciente> pacienteEliminado= pacienteService.buscarPorId(idEliminar);

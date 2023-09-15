@@ -29,13 +29,13 @@ public class OdontologoServiceTest {
         odontologoService.guardarOdontologo(odontologo2);
         odontologoService.guardarOdontologo(odontologo3);
         //ENTONCES
-        assertEquals(1L,odontologo1.getId());
+        assertEquals(4L,odontologo1.getId());
     }
     @Test
     @Order(2)
     public void buscarPorIdTest(){
         //DADO
-        Long idAbuscar= 1L;
+        Long idAbuscar= 4L;
         //CUANDO
         Optional<Odontologo> odontologoABuscado= odontologoService.buscarPorId(idAbuscar);
         //ENTONCES
@@ -47,7 +47,7 @@ public class OdontologoServiceTest {
         //DADO Y CUANDO
         List<Odontologo> listaOdontologos= odontologoService.listarTodos();
         //ENTONCES
-        assertEquals(3,listaOdontologos.size());
+        assertEquals(6,listaOdontologos.size());
     }
     @Test
     @Order(4)
@@ -64,7 +64,7 @@ public class OdontologoServiceTest {
     @Order(5)
     public void actualizarOdontologo(){
         //DADO
-        Long idABuscar= 1L;
+        Long idABuscar= 4L;
         Optional<Odontologo> odontologo = odontologoService.buscarPorId(idABuscar);
         if(odontologo.isPresent()){
             Odontologo odontologoAGuardar= new Odontologo(idABuscar,"ABC1223","Maria","Galvis");
@@ -80,7 +80,7 @@ public class OdontologoServiceTest {
     @Order(6)
     public void eliminarOdontologo(){
         //DADO
-        Long idEliminar= 1L;
+        Long idEliminar= 4L;
         //CUANDO
         odontologoService.eliminarOdontologo(idEliminar);
         Optional<Odontologo> odontologoEliminado= odontologoService.buscarPorId(idEliminar);

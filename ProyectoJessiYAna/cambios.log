@@ -909,3 +909,272 @@
 [2023-09-14 11:25:12] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
 [2023-09-14 11:25:12] [ INFO ] [TurnoService:52] Se llama a Turno Service para guardar
 [2023-09-14 11:25:12] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:11:58] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:11:58] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:11:58] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:11:58] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-14 22:11:58] [ INFO ] [PacienteService:42] Se llama a Paciente Service para buscar por email 
+[2023-09-14 22:11:58] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:11:58] [ INFO ] [PacienteService:26] Se llama a Paciente Service para actualizar
+[2023-09-14 22:11:58] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:11:58] [ INFO ] [PacienteService:30] Se llama a Paciente Service para eliminar
+[2023-09-14 22:11:58] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:13:06] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:13:06] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:13:06] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:13:06] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:13:06] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-14 22:13:06] [ INFO ] [PacienteService:42] Se llama a Paciente Service para buscar por email 
+[2023-09-14 22:13:06] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:13:06] [ INFO ] [PacienteService:26] Se llama a Paciente Service para actualizar
+[2023-09-14 22:13:06] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:13:06] [ INFO ] [PacienteService:30] Se llama a Paciente Service para eliminar
+[2023-09-14 22:13:06] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:16:05] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:16:05] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:16:05] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:16:05] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:16:05] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:16:05] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:16:05] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:20:10] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:20:10] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:20:10] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:20:10] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:20:10] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:20:10] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:20:10] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:20:10] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:20:10] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:20:10] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:20:10] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-14 22:20:10] [ INFO ] [PacienteService:42] Se llama a Paciente Service para buscar por email 
+[2023-09-14 22:20:10] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:20:10] [ INFO ] [PacienteService:26] Se llama a Paciente Service para actualizar
+[2023-09-14 22:20:10] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:20:10] [ INFO ] [PacienteService:30] Se llama a Paciente Service para eliminar
+[2023-09-14 22:20:10] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:20:53] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:20:53] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:20:53] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:20:53] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:20:53] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:20:53] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:20:53] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:20:53] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:20:53] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:20:53] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:20:53] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-14 22:20:53] [ INFO ] [PacienteService:42] Se llama a Paciente Service para buscar por email 
+[2023-09-14 22:20:53] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:20:53] [ INFO ] [PacienteService:26] Se llama a Paciente Service para actualizar
+[2023-09-14 22:20:53] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:20:53] [ INFO ] [PacienteService:30] Se llama a Paciente Service para eliminar
+[2023-09-14 22:20:53] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:28:30] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:28:30] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:28:30] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:28:30] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:28:30] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:28:30] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:28:30] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:28:30] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:28:30] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:28:30] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-14 22:28:30] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-14 22:28:30] [ INFO ] [OdontologoService:43] Se llama a odotologo Service para buscar por matricula
+[2023-09-14 22:28:30] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-14 22:28:30] [ INFO ] [OdontologoService:27] Se llama a odotologo Service para actualizar
+[2023-09-14 22:28:30] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-14 22:28:30] [ INFO ] [OdontologoService:31] Se llama a odotologo Service para eliminar
+[2023-09-14 22:28:31] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-14 22:31:26] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:31:26] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:31:26] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:31:26] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:31:26] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:31:26] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:31:27] [ INFO ] [TurnoService:65] Se llama a Turno Service para buscar por id
+[2023-09-14 22:31:27] [ INFO ] [TurnoService:74] Se llama a Turno Service para listar turnos
+[2023-09-14 22:31:27] [ INFO ] [TurnoService:65] Se llama a Turno Service para buscar por id
+[2023-09-14 22:31:27] [ INFO ] [TurnoService:61] Se llama a Turno Service para eliminar
+[2023-09-14 22:32:06] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:32:06] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:32:06] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:32:06] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:32:06] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:32:06] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:32:06] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:32:06] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:32:06] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:32:06] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:32:06] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:32:06] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:32:06] [ INFO ] [TurnoService:52] Se llama a Turno Service para guardar
+[2023-09-14 22:32:06] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:32:06] [ INFO ] [TurnoService:52] Se llama a Turno Service para guardar
+[2023-09-14 22:32:06] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:32:06] [ INFO ] [TurnoService:52] Se llama a Turno Service para guardar
+[2023-09-14 22:32:06] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:32:07] [ INFO ] [TurnoService:65] Se llama a Turno Service para buscar por id
+[2023-09-14 22:32:07] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:32:07] [ INFO ] [TurnoService:74] Se llama a Turno Service para listar turnos
+[2023-09-14 22:32:07] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:32:07] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:32:07] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:32:07] [ INFO ] [TurnoService:65] Se llama a Turno Service para buscar por id
+[2023-09-14 22:32:07] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:32:07] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:32:07] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-14 22:32:07] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:32:07] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:32:07] [ INFO ] [TurnoService:57] Se llama a Turno Service para actualizar
+[2023-09-14 22:32:07] [ INFO ] [TurnoService:65] Se llama a Turno Service para buscar por id
+[2023-09-14 22:32:07] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:32:07] [ INFO ] [TurnoService:61] Se llama a Turno Service para eliminar
+[2023-09-14 22:32:07] [ INFO ] [TurnoService:65] Se llama a Turno Service para buscar por id
+[2023-09-14 22:32:07] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:32:07] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-14 22:32:07] [ INFO ] [TurnoService:52] Se llama a Turno Service para guardar
+[2023-09-14 22:32:07] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:34:17] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:34:17] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:34:17] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:34:17] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:34:17] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:34:17] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:34:17] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:34:17] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:34:17] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:34:17] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:34:17] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:34:17] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:52] Se llama a Turno Service para guardar
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:52] Se llama a Turno Service para guardar
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:52] Se llama a Turno Service para guardar
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:65] Se llama a Turno Service para buscar por id
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:74] Se llama a Turno Service para listar turnos
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:65] Se llama a Turno Service para buscar por id
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:34:17] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:34:17] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-14 22:34:17] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:34:17] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:57] Se llama a Turno Service para actualizar
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:65] Se llama a Turno Service para buscar por id
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:61] Se llama a Turno Service para eliminar
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:65] Se llama a Turno Service para buscar por id
+[2023-09-14 22:34:17] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-14 22:34:17] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:52] Se llama a Turno Service para guardar
+[2023-09-14 22:34:17] [ INFO ] [TurnoService:30] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-14 22:36:17] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:36:17] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:36:17] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:36:17] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:36:17] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:36:17] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:39:25] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:39:25] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:39:25] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:39:25] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:39:25] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:39:25] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:50:20] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:50:20] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:50:20] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:50:20] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:50:20] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:50:20] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:52:31] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:52:31] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:52:31] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:52:31] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:52:31] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:52:31] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:56:14] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:56:14] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:56:14] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:56:14] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:56:14] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:56:14] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:59:41] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:59:41] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:59:41] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 22:59:41] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:59:41] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 22:59:41] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:01:09] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:01:09] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:01:09] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:01:09] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:01:09] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:01:09] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:04:21] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:04:21] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:04:21] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:04:21] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:04:21] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:04:21] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:16:10] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:16:10] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:16:10] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:16:10] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:16:10] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:16:10] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:17:34] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-14 23:17:34] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-14 23:17:56] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-14 23:17:56] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-14 23:18:24] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:18:24] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:18:24] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:18:24] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:18:24] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:18:24] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:20:59] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:20:59] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:20:59] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:20:59] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:20:59] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:20:59] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:27:10] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:27:10] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:27:10] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:27:10] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:27:10] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:27:10] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:28:41] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:28:41] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:28:41] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:28:41] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:28:41] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:28:41] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:29:50] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:29:50] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:29:50] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:29:50] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:29:50] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:29:50] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:31:52] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:31:52] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:31:52] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:31:52] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:31:52] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:31:52] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:33:15] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:33:15] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:33:15] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-14 23:33:15] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:33:15] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:33:15] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-14 23:33:46] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-14 23:33:46] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
