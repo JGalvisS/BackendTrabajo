@@ -1,15 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>post_odontologos</title>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
-
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <title>post_pacientes</title>
 </head>
 <body>
     <header>
@@ -26,7 +21,7 @@
             </li>
 
             <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="./pacientes" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link dropdown-toggle" href="./pacientes"role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 Paciente
                 </a>
                 <ul class="dropdown-menu">
@@ -64,11 +59,10 @@
     </header>
 
     <main>
-        <div class="container"></div>
         <div class="row">
-            <div class="col-sm-7" style="background-color:#e6fffa; padding:10px; border-radius:3px; margin: 15px;">
-                <h3>Agregar Odontologo</h3>
-                <form id="add_new_odontologo">
+            <div class="col-sm-7" style="background-color:#e6fffa; padding:10px; border-radius:3px;  margin: 15px;">
+                <h3>Agregar Paciente</h3>
+                <form id="add_new_paciente">
                     <div class="form-group">
                         <label class="control-label" for="nombre">Nombre:</label>
                         <input type="text" class="form-control" id="nombre" placeholder="Ingrese el nombre" name="nombre" required></input>
@@ -79,10 +73,42 @@
                     </div>
     
                     <div class="form-group">
-                        <label class="control-label" for="matricula">Matricula:</label>
-                        <input type="text" class="form-control" id="matricula" placeholder="Ingrese la matricula" name="premios" required></input>
+                        <label class="control-label" for="cedula">Cedula:</label>
+                        <input type="text" class="form-control" id="cedula" placeholder="Ingrese la cedula" name="cedula" required></input>
                     </div>
-    
+
+                    
+                    <div class="form-group">
+                        <label class="control-label" for="email">Email:</label>
+                        <input type="text" class="form-control" id="email" placeholder="Ingrese la email" name="email" required></input>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label" for="fecha">Fecha de Ingreso:</label>
+                        <input type="date" class="form-control" id="fecha" placeholder="Ingrese la fecha ingreso" name="fecha" required></input>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label" for="calle"><strong>Direccion</strong> <br> Calle:</label>
+                        <input type="text" class="form-control" id="calle" placeholder="Ingrese la calle" name="calle" required></input>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label" for="numero">Numero:</label>
+                        <input type="number" class="form-control" id="numero" placeholder="Ingrese la numero" name="numero" required></input>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label" for="localidad">localidad:</label>
+                        <input type="text" class="form-control" id="localidad" placeholder="Ingrese la localidad" name="localidad" required></input>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label" for="provincia">provincia:</label>
+                        <input type="text" class="form-control" id="provincia" placeholder="Ingrese la provincia" name="provincia" required></input>
+                    </div>
+
+    <br>
     
                     <button type="submit" class="btn btn-danger" id="btn-add-new-premio">Guardar</button>
                 </form>
@@ -90,10 +116,10 @@
                 </div>
             </div>
         </div>
-    </div>
+
     </main>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
-<script type="text/javascript" src="./js/post_odontologos.js"></script>
+<script type="text/javascript" src="./js/post_pacientes.js"></script>
 </body>
 </html>

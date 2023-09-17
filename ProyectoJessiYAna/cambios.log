@@ -1440,3 +1440,20 @@
 [2023-09-17 12:43:38] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
 [2023-09-17 12:43:38] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
 [2023-09-17 12:43:38] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-17 13:25:41] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-17 13:25:41] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-17 13:25:41] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-17 13:25:41] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-17 13:25:41] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-17 13:25:41] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-17 13:26:07] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-17 13:26:07] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-17 13:26:38] [ INFO ] [OdontologoController:24] Se llama a Odontologo Controller
+[2023-09-17 13:26:38] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-17 13:26:44] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-17 13:26:44] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-17 13:27:07] [ INFO ] [OdontologoController:51] Se llama a Odontologo Controller
+[2023-09-17 13:27:07] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-17 13:27:07] [ INFO ] [OdontologoService:27] Se llama a odotologo Service para actualizar
+[2023-09-17 13:27:07] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-17 13:27:07] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar

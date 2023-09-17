@@ -14,7 +14,7 @@ import java.util.Optional;
 
 //@Controller// asi va trabajando con vista o en este caso con thymeleaf
 @RestController // cuantro no trabajo con vista
-@RequestMapping("/paciente")
+@RequestMapping("/pacientes")
 public class PacienteController {
     private static final Logger logger = Logger.getLogger(PacienteController.class);
 
