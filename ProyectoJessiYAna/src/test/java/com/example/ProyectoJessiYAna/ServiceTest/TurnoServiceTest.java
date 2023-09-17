@@ -27,8 +27,8 @@ public class TurnoServiceTest {
 
         @Autowired
         private TurnoService turnoService;
-        OdontologoService odontologoService;
-        PacienteService pacienteService;
+        private OdontologoService odontologoService;
+        private PacienteService pacienteService;
     @Autowired
     public TurnoServiceTest(TurnoService turnoService, OdontologoService odontologoService, PacienteService pacienteService) {
         this.turnoService = turnoService;

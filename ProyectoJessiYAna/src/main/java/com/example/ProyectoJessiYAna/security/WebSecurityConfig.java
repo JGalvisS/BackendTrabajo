@@ -36,7 +36,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     @Override // para configuarar la seguridad en este caso de tipo http con objeto tipo http
     protected void configure(HttpSecurity http) throws Exception {
         http
-                .csrf().disable()// desabilita el scaner ne malware
+                .csrf().disable()// desabilita el scaner de malware
                 .authorizeRequests()//autorizo las request
                     .antMatchers("/index.html","/").permitAll() // para que permita el ingreso al index a cualquiera
                     .antMatchers("/turno","/servicios.html" /* aqui van los end point a los que mi usuario va a tener acceso */).hasRole("USER")//aqui va lo que va a tener acceso mi roluser
