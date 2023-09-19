@@ -70,7 +70,7 @@ public class PacienteServiceTest {
             //DADO
             Long idABuscar= 4L;
             if(pacienteService.buscarPorId(idABuscar).isPresent()){// primero buscamos por un id y si ese paciente esta presente
-                Paciente pacienteAGuardar= new Paciente(idABuscar,"Agustin","Pereyra","1234", LocalDate.of(2023,9,05),new Domicilio("calle 1",11,"La Rioja","La Rioja"),"jorge.pereyra@digitalhouse.com");
+                Paciente pacienteAGuardar= new Paciente(idABuscar,"Agustin","Pereyra","1234", LocalDate.of(2023,9,05),new Domicilio(idABuscar,"calle 1",11,"La Rioja","La Rioja"),"jorge.pereyra@digitalhouse.com");
                 //CUANDO
                 pacienteService.actualizarPaciente(pacienteAGuardar); //actualizamos con los nuevos datos de pacienteAGuardar
                 //ENTONCES

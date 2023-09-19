@@ -48,13 +48,13 @@ public class TurnoServiceTest {
            turnoService.guardarTurno(turno2);
            turnoService.guardarTurno(turno3);
             //ENTONCES
-            assertEquals(1L,turno1.getId());
+            assertEquals(4L,turno1.getId());
         }
         @Test
         @Order(2)
         public void buscarPorIdTest(){
             //DADO
-            Long idAbuscar= 1L;
+            Long idAbuscar= 4L;
             //CUANDO
             Optional<TurnoDTO> turnoABuscado= turnoService.buscarPorId(idAbuscar);
             //ENTONCES
@@ -66,13 +66,13 @@ public class TurnoServiceTest {
             //DADO Y CUANDO
             List<TurnoDTO> listaTurnos= turnoService.listarTodos();
             //ENTONCES
-            assertEquals(3,listaTurnos.size());
+            assertEquals(6,listaTurnos.size());
         }
         @Test
         @Order(4)
         public void actualizarTurno(){
             //DADO
-            Long idABuscar= 1L;
+            Long idABuscar= 4L;
             Optional<TurnoDTO> turno = turnoService.buscarPorId(idABuscar);//busco el turno
             if(turno.isPresent()){// pregunto si me trajo un turno en la busqueda
                 Optional<Paciente> pacienteBuscadoPorid = pacienteService.buscarPorId(turno.get().getPacienteId());//me traigo un objeto Optional con ese id extraido del turno
@@ -92,7 +92,7 @@ public class TurnoServiceTest {
         @Order(5)
         public void eliminarTurno(){
             //DADO
-            Long idEliminar= 1L;
+            Long idEliminar= 4L;
             //CUANDO
             turnoService.eliminarTurno(idEliminar);
             //ENTONCES
@@ -103,11 +103,11 @@ public class TurnoServiceTest {
     @Order(6)
     public void guardarTurnoID(){
         //DADO
-        Turno turno1=new Turno(pacienteService.buscarPorId(1L).get(),odontologoService.buscarPorId(1L).get(), LocalDate.of(2023,9,25));
+        Turno turno1=new Turno(pacienteService.buscarPorId(1L).get(),odontologoService.buscarPorId(2L).get(), LocalDate.of(2023,9,25));
         //CUANDO
         turnoService.guardarTurno(turno1);
 
         //ENTONCES
-        assertEquals(4L,turno1.getId());
+        assertEquals(7L,turno1.getId());
     }
     }

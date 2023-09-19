@@ -1,9 +1,11 @@
 package com.example.ProyectoJessiYAna.security;
 
+import com.example.ProyectoJessiYAna.dto.TurnoDTO;
 import com.example.ProyectoJessiYAna.entity.*;
 import com.example.ProyectoJessiYAna.repository.UsuarioRepository;
 import com.example.ProyectoJessiYAna.service.OdontologoService;
 import com.example.ProyectoJessiYAna.service.PacienteService;
+import com.example.ProyectoJessiYAna.service.TurnoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;
@@ -20,6 +22,8 @@ public class CargadorInicial implements ApplicationRunner {// cuando levante el 
     private OdontologoService odontologoService;
     @Autowired
     private PacienteService pacienteService;
+    @Autowired
+    private TurnoService turnoService;
 
 
     @Override
@@ -53,5 +57,10 @@ public class CargadorInicial implements ApplicationRunner {// cuando levante el 
         odontologoService.guardarOdontologo(odontologo1);
         odontologoService.guardarOdontologo(odontologo2);
         odontologoService.guardarOdontologo(odontologo3);
+        //turno
+        TurnoDTO turnoDTO = turnoService.guardarTurno(new Turno(pacientePrueba, odontologo1, LocalDate.of(2023, 10, 20)));
+        TurnoDTO turno1DTO = turnoService.guardarTurno(new Turno(pacientePrueba2, odontologo2, LocalDate.of(2023, 10, 29)));
+        TurnoDTO turno2DTO = turnoService.guardarTurno(new Turno(pacienteAGuardar, odontologo3, LocalDate.of(2023, 10, 28)));
+
     }
 }

@@ -17,7 +17,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/turno")
+@RequestMapping("/turnos")
 public class TurnoController {
     private static final Logger logger = Logger.getLogger(TurnoController.class);
     private TurnoService turnoService;

@@ -40,8 +40,8 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
                 .authorizeRequests()//autorizo las request
                     .antMatchers("/index.html","/").permitAll() // para que permita el ingreso al index a cualquiera
                     .antMatchers(/* aqui van los end point a los que mi usuario va a tener acceso */).hasRole("USER")//aqui va lo que va a tener acceso mi roluser
-                    .antMatchers("/odontologos","paciente").hasRole("ADMIN")
-                    .antMatchers("/turno","/servicios.html").hasAnyRole("ADMIN","USER")// para que cualquiera de los dos roles pueda entrar
+                    .antMatchers("/odontologos","/pacientes").hasRole("ADMIN")
+                    .antMatchers("/turnos","/servicios.html").hasAnyRole("ADMIN","USER")// para que cualquiera de los dos roles pueda entrar
                     .anyRequest()// todas las solitudes que quiera hacer ese rol
                     .authenticated()// debera estar autenticado
                 .and()

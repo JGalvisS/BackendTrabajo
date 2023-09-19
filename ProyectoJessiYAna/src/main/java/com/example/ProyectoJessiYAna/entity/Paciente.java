@@ -20,7 +20,7 @@ public class Paciente {
     private String nombre;
     @Column
     private String apellido;
-    @Column(nullable = false) // para que sea notnull
+    @Column//(nullable = false) // para que sea notnull
     private String cedula;
     @Column
     private LocalDate fechaIngreso;

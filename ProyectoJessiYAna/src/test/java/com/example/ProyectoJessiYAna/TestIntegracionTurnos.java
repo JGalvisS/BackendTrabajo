@@ -52,13 +52,13 @@ public class TestIntegracionTurnos {
     @Test
     public void listarTodosTest() throws Exception {
         cargarInfo();
-        MvcResult respuesta = mockMvc.perform(MockMvcRequestBuilders.get("/turno").accept(MediaType.APPLICATION_JSON))//llamo mock de spring y con perform voy a enviar una perfom contruida, MockMvcRequestBuilders construyo una respuesta que apunta a un endpoint el cual solo acepara aplicaciones en formato JSON
+        MvcResult respuesta = mockMvc.perform(MockMvcRequestBuilders.get("/turnos").accept(MediaType.APPLICATION_JSON))//llamo mock de spring y con perform voy a enviar una perfom contruida, MockMvcRequestBuilders construyo una respuesta que apunta a un endpoint el cual solo acepara aplicaciones en formato JSON
                 .andDo(MockMvcResultHandlers.print())// captura la respuesta imprimiendola en consola
                 .andExpect(MockMvcResultMatchers.status().isOk())//y aqui va lo que esperamos en este caso un 200
                 .andReturn();// y que ademas nos lo retorne  la respuesta
         assertFalse(respuesta.getResponse().getContentAsString().isEmpty());// la respuesta que obtiene la convierte en un string y verifica si esta vacia
     }
-    /*
+       /*
     @Test
     public void guardarTest() throws Exception {
         String contentenido = "{\"paciente\":{\"id\":1\"},\"odontologo\":{\"id\":1\"},\"fecha\":\"2023-08-22\"}";
@@ -74,4 +74,5 @@ public class TestIntegracionTurnos {
         assertFalse(respuesta.getResponse().getContentAsString().isEmpty());
     }
 */
+
 }
