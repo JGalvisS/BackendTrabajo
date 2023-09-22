@@ -29,7 +29,7 @@ public class Paciente {
     private Domicilio domicilio;
     @Column(unique = true)// para que sea unico
     private String email;
-    @OneToMany(mappedBy = "paciente",fetch = FetchType.LAZY) // se mapea por paciente y el fetch de tipo lazy para que cuando cargue no traiga los turnos obligatoriamente
+    @OneToMany(mappedBy = "paciente",fetch = FetchType.LAZY,cascade = CascadeType.REMOVE) // se mapea por paciente y el fetch de tipo lazy para que cuando cargue no traiga los turnos obligatoriamente
     @JsonIgnore
     private Set<Turno> turnos=new HashSet<>(); // creamos un HashSet que va a guardar con Set haciendo que sea irrepetible en la lista
 

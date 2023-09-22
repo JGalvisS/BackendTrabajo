@@ -58,12 +58,12 @@ public class TestIntegracionTurnos {
                 .andReturn();// y que ademas nos lo retorne  la respuesta
         assertFalse(respuesta.getResponse().getContentAsString().isEmpty());// la respuesta que obtiene la convierte en un string y verifica si esta vacia
     }
-       /*
+
     @Test
     public void guardarTest() throws Exception {
         String contentenido = "{\"paciente\":{\"id\":1\"},\"odontologo\":{\"id\":1\"},\"fecha\":\"2023-08-22\"}";
 
-        MvcResult respuesta = mockMvc.perform(MockMvcRequestBuilders.post("/turno")
+        MvcResult respuesta = mockMvc.perform(MockMvcRequestBuilders.post("/turnos")
                         .contentType(MediaType.APPLICATION_JSON)
                         .content(contentenido))
                 .andDo(MockMvcResultHandlers.print())
@@ -73,6 +73,6 @@ public class TestIntegracionTurnos {
                                         .andReturn();
         assertFalse(respuesta.getResponse().getContentAsString().isEmpty());
     }
-*/
+
 
 }

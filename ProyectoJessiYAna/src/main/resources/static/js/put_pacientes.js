@@ -13,17 +13,16 @@ window.addEventListener('load', function () {
             id: document.querySelector('#paciente_id').value,
             nombre: document.querySelector('#Nombre').value,
             apellido: document.querySelector('#Apellido').value,
-            matricula: document.querySelector('#Cedula').value,
+            cedula: document.querySelector('#Cedula').value,
             fechaIngreso: document.querySelector('#FechaIngreso').value,
             domicilio:{
-                id: document.querySelector('#paciente_id').value,
-                calle:  document.querySelector('#calle').value,
-                numero:  document.querySelector('#numero').value,
-                localidad:  document.querySelector('#localidad').value,
-                provincia:  document.querySelector('#provincia').value,
+            id:  document.querySelector('#paciente_id').value,
+            calle: document.querySelector('#calle').value,
+            numero: document.querySelector('#numero').value,
+            localidad: document.querySelector('#localidad').value,
+            provincia: document.querySelector('#provincia').value,
             },
-            email: document.querySelector('#Email').value,
-
+            email: document.querySelector('#Email').value
         };
  
         //invocamos utilizando la función fetch la API estudiantes con el método PUT

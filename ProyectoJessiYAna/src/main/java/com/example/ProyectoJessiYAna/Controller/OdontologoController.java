@@ -17,7 +17,7 @@ import java.util.Optional;
 public class OdontologoController {
     private static final Logger logger = Logger.getLogger(OdontologoController.class);
     @Autowired
-    private OdontologoService odontologoService = new OdontologoService();
+    private OdontologoService odontologoService;
 
     @PostMapping
     private ResponseEntity<Odontologo> registrarOdontologo(@RequestBody Odontologo odontologo){

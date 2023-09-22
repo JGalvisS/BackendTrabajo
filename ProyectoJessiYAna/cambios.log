@@ -3275,3 +3275,1304 @@
 [2023-09-18 19:26:38] [ INFO ] [PacienteService:30] Se llama a Paciente Service para eliminar
 [2023-09-18 19:26:41] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
 [2023-09-18 19:26:41] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 13:12:52] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 13:12:52] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 13:12:52] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 13:12:52] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 13:12:52] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 13:12:52] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 13:12:52] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 13:12:52] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:12:52] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 13:12:52] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:12:52] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 13:12:52] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:13:15] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 13:13:15] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 13:13:19] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 13:13:19] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 13:13:22] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 13:13:22] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 13:13:22] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:13:22] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:13:22] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:13:54] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 13:13:54] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 13:13:54] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:13:54] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:13:54] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:14:53] [ INFO ] [OdontologoController:24] Se llama a Odontologo Controller
+[2023-09-19 13:14:53] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 13:26:57] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 13:26:57] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 13:26:57] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 13:26:57] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 13:26:57] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 13:26:57] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 13:26:57] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 13:26:57] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:26:57] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 13:26:57] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:26:57] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 13:26:57] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:30:16] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 13:30:16] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 13:30:16] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 13:30:16] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 13:30:16] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 13:30:16] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 13:30:16] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 13:30:16] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:30:16] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 13:30:16] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:30:16] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 13:30:16] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:32:31] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 13:32:31] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 13:32:31] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 13:32:31] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 13:32:31] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 13:32:31] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 13:32:31] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 13:32:31] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:32:31] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 13:32:31] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:32:31] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 13:32:31] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:34:39] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 13:34:39] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 13:34:39] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 13:34:39] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 13:34:39] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 13:34:39] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 13:34:39] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 13:34:39] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:34:39] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 13:34:39] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:34:39] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 13:34:39] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:43:42] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 13:43:42] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 13:43:42] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 13:43:42] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 13:43:42] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 13:43:42] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 13:43:42] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 13:43:42] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:43:42] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 13:43:42] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 13:43:42] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 13:43:42] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 14:00:22] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 14:00:22] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 14:00:22] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 14:00:22] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 14:00:22] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 14:00:22] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 14:00:22] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 14:00:22] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 14:00:22] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 14:00:22] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 14:00:22] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 14:00:22] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 14:00:44] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 14:00:44] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 14:00:47] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 14:00:47] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 14:00:48] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 14:00:48] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 14:00:49] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 14:00:49] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 17:55:56] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 17:55:56] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 17:55:56] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 17:55:56] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 17:55:56] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 17:55:56] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 17:55:56] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 17:55:56] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 17:55:56] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 17:55:56] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 17:55:56] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 17:55:56] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 17:56:33] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 17:56:33] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 17:56:33] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 17:56:33] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 17:56:33] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 17:57:00] [ INFO ] [OdontologoController:24] Se llama a Odontologo Controller
+[2023-09-19 17:57:00] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:00:02] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:00:02] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:00:02] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:00:02] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:00:02] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:00:02] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:00:02] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:00:02] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:00:02] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:00:02] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:00:02] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:00:02] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:00:26] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 18:00:26] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 18:04:41] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 18:04:41] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 18:05:05] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:05:05] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:05:05] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:05:05] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:05:05] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:05:05] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:05:05] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:05:05] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:05:05] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:05:05] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:05:05] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:05:05] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:05:21] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 18:05:21] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 18:10:50] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:10:50] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:10:50] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:10:50] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:10:50] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:10:50] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:10:50] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:10:50] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:10:50] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:10:50] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:10:50] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:10:50] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:11:09] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 18:11:09] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 18:14:52] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:14:52] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:14:52] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:14:52] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:14:52] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:14:52] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:14:52] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:14:52] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:14:52] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:14:52] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:14:52] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:14:52] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:14:52] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:14:52] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:14:52] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:14:52] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 18:14:53] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 18:14:53] [ INFO ] [OdontologoService:43] Se llama a odotologo Service para buscar por matricula
+[2023-09-19 18:14:53] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 18:14:53] [ INFO ] [OdontologoService:27] Se llama a odotologo Service para actualizar
+[2023-09-19 18:14:53] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 18:14:53] [ INFO ] [OdontologoService:31] Se llama a odotologo Service para eliminar
+[2023-09-19 18:14:53] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 18:16:46] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:16:46] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:16:46] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:16:46] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:16:46] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:16:46] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:16:46] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:16:46] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:16:46] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:16:46] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:16:46] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:16:46] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:16:46] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:16:46] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:16:46] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:16:46] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:16:46] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:16:46] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:16:46] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 18:16:46] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 18:16:47] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:16:47] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:16:47] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:16:47] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:16:47] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:19:25] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:19:25] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:19:25] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:19:25] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:19:25] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:19:25] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:19:25] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:19:25] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:19:25] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:19:25] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:19:25] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:19:25] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:19:26] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:19:26] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:19:26] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:19:26] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:19:26] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:19:26] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:19:26] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 18:19:26] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 18:19:26] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:19:26] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:19:26] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:19:26] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:19:26] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:24:02] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:24:02] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:24:02] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:24:02] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:24:02] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:24:02] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:24:02] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:24:02] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:24:02] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:24:02] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:24:02] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:24:02] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:24:03] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:24:03] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:24:03] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:24:03] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:24:03] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:24:03] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:24:03] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 18:24:03] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 18:24:03] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:24:03] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:24:03] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:24:03] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:24:03] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:24:53] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:24:53] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:24:53] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:24:53] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:24:53] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:24:53] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:24:53] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:24:53] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:24:53] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:24:53] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:24:53] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:24:53] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:25:49] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 18:25:49] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 18:32:54] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:32:54] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:32:54] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:32:54] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:32:54] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:32:54] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:32:54] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:32:54] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:32:54] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:32:54] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:32:54] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:32:54] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:33:10] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 18:33:10] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 18:35:13] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 18:35:13] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 18:35:15] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 18:35:15] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 18:35:35] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 18:35:35] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 18:35:37] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 18:35:37] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 18:35:37] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:35:37] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:35:37] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:35:40] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 18:35:40] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 18:40:01] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:40:01] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:40:01] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:40:01] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:40:01] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:40:01] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:40:01] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:40:01] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:40:01] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:40:01] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:40:01] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:40:01] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:40:12] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 18:40:12] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 18:41:41] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:41:41] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:41:41] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:41:41] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:41:41] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:41:41] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:41:41] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:41:41] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:41:41] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:41:41] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:41:41] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:41:41] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:41:57] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 18:41:57] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 18:42:00] [ INFO ] [OdontologoController:30] Se llama a Odontologo Controller
+[2023-09-19 18:42:00] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 18:42:05] [ INFO ] [OdontologoController:51] Se llama a Odontologo Controller
+[2023-09-19 18:42:05] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 18:42:05] [ INFO ] [OdontologoService:27] Se llama a odotologo Service para actualizar
+[2023-09-19 18:42:05] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 18:42:05] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 18:42:24] [ INFO ] [TurnoController:35] Se llama a Turno Controller
+[2023-09-19 18:42:24] [ INFO ] [TurnoController:35] Se llama a Turno Controller
+[2023-09-19 18:42:24] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 18:42:24] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 18:42:24] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 18:42:24] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 18:42:24] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:42:24] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:42:24] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:42:24] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:42:28] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 18:42:28] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 18:42:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:42:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:42:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:42:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:42:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:42:50] [ INFO ] [TurnoController:48] Se llama a Turno Controller
+[2023-09-19 18:42:50] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 18:42:50] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:42:56] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 18:42:56] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 18:42:56] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:42:56] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:42:56] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:42:56] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:42:56] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:44:07] [ INFO ] [TurnoController:48] Se llama a Turno Controller
+[2023-09-19 18:44:07] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 18:44:07] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:44:14] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 18:44:14] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 18:44:14] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:44:14] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:44:14] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:44:14] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:44:14] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:49:12] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:49:12] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:49:12] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:49:12] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:49:12] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:49:12] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:49:12] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:49:12] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:49:12] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:49:12] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:49:12] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:49:12] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:49:40] [ INFO ] [OdontologoController:24] Se llama a Odontologo Controller
+[2023-09-19 18:49:40] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:49:43] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 18:49:43] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 18:50:25] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 18:50:25] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 18:50:38] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 18:50:38] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 18:50:38] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:50:38] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:50:38] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:50:52] [ INFO ] [TurnoController:35] Se llama a Turno Controller
+[2023-09-19 18:50:52] [ INFO ] [TurnoController:35] Se llama a Turno Controller
+[2023-09-19 18:50:52] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 18:50:52] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 18:50:52] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 18:50:52] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 18:50:52] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:50:52] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:50:52] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:50:52] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:50:56] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 18:50:56] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 18:50:56] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:50:56] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:50:56] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:50:56] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:50:56] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:58:01] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:58:01] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:58:01] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 18:58:01] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:58:01] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:58:01] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 18:58:01] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:58:01] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:58:01] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:58:01] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:58:01] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 18:58:01] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:58:09] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 18:58:09] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 18:58:09] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:58:09] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:58:09] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:58:26] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 18:58:26] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 18:58:26] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:58:26] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 18:58:26] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:00:02] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:00:02] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:00:02] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:00:02] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:00:02] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:00:02] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:00:02] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:00:02] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:00:02] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:00:02] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:00:02] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:00:02] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:00:09] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:00:09] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:00:09] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:00:09] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:00:09] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:00:23] [ INFO ] [TurnoController:35] Se llama a Turno Controller
+[2023-09-19 19:00:23] [ INFO ] [TurnoController:35] Se llama a Turno Controller
+[2023-09-19 19:00:23] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:00:23] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:00:23] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 19:00:23] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 19:00:23] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:00:23] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:00:23] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:00:23] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:00:26] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:00:26] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:00:26] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:00:26] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:00:26] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:00:26] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:00:26] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:01:01] [ INFO ] [TurnoController:35] Se llama a Turno Controller
+[2023-09-19 19:01:01] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:01:01] [ INFO ] [TurnoController:35] Se llama a Turno Controller
+[2023-09-19 19:01:01] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:01:01] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 19:01:01] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 19:01:01] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:01:01] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:01:01] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:01:01] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:01:28] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:01:28] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:01:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:01:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:01:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:01:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:01:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:01:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:01:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:01:56] [ INFO ] [TurnoController:48] Se llama a Turno Controller
+[2023-09-19 19:01:56] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 19:01:56] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:02] [ INFO ] [TurnoController:74] Se llama a turno Controller
+[2023-09-19 19:02:02] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:02:02] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 19:02:02] [ INFO ] [TurnoService:59] Se llama a Turno Service para actualizar
+[2023-09-19 19:02:02] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:02:02] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:02:02] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:02] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:02] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:02] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:02] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:02] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:02] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:02] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:11] [ INFO ] [TurnoController:48] Se llama a Turno Controller
+[2023-09-19 19:02:11] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 19:02:11] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:12] [ INFO ] [TurnoController:48] Se llama a Turno Controller
+[2023-09-19 19:02:12] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 19:02:12] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:13] [ INFO ] [TurnoController:48] Se llama a Turno Controller
+[2023-09-19 19:02:13] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 19:02:13] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:15] [ INFO ] [TurnoController:48] Se llama a Turno Controller
+[2023-09-19 19:02:15] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 19:02:15] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:16] [ INFO ] [TurnoController:48] Se llama a Turno Controller
+[2023-09-19 19:02:16] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 19:02:16] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:19] [ INFO ] [TurnoController:48] Se llama a Turno Controller
+[2023-09-19 19:02:19] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 19:02:19] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:27] [ INFO ] [TurnoController:74] Se llama a turno Controller
+[2023-09-19 19:02:27] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:02:27] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 19:02:27] [ INFO ] [TurnoService:59] Se llama a Turno Service para actualizar
+[2023-09-19 19:02:27] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:02:27] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:02:27] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:27] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:27] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:27] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:27] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:27] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:27] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:27] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:27] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:02:55] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:02:55] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:03:00] [ INFO ] [PacienteController:31] Se llama a Paciente Controller
+[2023-09-19 19:03:00] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:03:18] [ INFO ] [PacienteController:60] Se llama a Paciente Controller
+[2023-09-19 19:03:18] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:03:18] [ INFO ] [PacienteService:26] Se llama a Paciente Service para actualizar
+[2023-09-19 19:03:18] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:03:18] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:06:31] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:06:31] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:06:31] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:06:31] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:06:31] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:06:31] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:06:31] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:06:31] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:06:31] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:06:31] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:06:31] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:06:31] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:13:17] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:13:17] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:13:17] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:13:17] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:13:17] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:13:17] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:13:17] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:13:17] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:13:17] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:13:17] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:13:17] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:13:17] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:14:30] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:14:30] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:15:47] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:15:47] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:15:47] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:15:47] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:15:47] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:15:47] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:15:47] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:15:47] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:15:47] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:15:47] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:15:47] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:15:47] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:16:40] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:16:40] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:16:51] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:16:51] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:19:21] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:19:21] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:19:21] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:19:21] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:19:21] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:19:21] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:19:21] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:19:21] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:19:21] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:19:21] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:19:21] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:19:21] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:20:09] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:20:09] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:20:23] [ INFO ] [TurnoController:35] Se llama a Turno Controller
+[2023-09-19 19:20:23] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:20:23] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 19:20:23] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:20:23] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:20:33] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:20:33] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:20:33] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:20:33] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:20:33] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:20:33] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:21:28] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:21:28] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:21:28] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:21:28] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:21:28] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:21:28] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:21:28] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:21:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:21:28] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:21:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:21:28] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:21:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:21:41] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:21:41] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:21:41] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:21:41] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:21:41] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:21:49] [ INFO ] [TurnoController:48] Se llama a Turno Controller
+[2023-09-19 19:21:49] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 19:21:49] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:21:59] [ INFO ] [TurnoController:74] Se llama a turno Controller
+[2023-09-19 19:21:59] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:21:59] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 19:21:59] [ INFO ] [TurnoService:59] Se llama a Turno Service para actualizar
+[2023-09-19 19:21:59] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:21:59] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:21:59] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:21:59] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:21:59] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:21:59] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:24:50] [ INFO ] [TurnoController:48] Se llama a Turno Controller
+[2023-09-19 19:24:50] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 19:24:50] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:24:55] [ INFO ] [TurnoController:74] Se llama a turno Controller
+[2023-09-19 19:24:55] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:24:55] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 19:24:55] [ INFO ] [TurnoService:59] Se llama a Turno Service para actualizar
+[2023-09-19 19:24:55] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:24:55] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:24:55] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:24:55] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:24:55] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:24:55] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:24:55] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:25:02] [ INFO ] [TurnoController:58] Se llama a Turno Controller
+[2023-09-19 19:25:02] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 19:25:02] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:25:02] [ INFO ] [TurnoService:64] Se llama a Turno Service para eliminar
+[2023-09-19 19:28:01] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:28:01] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:28:01] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:28:01] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:28:01] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:28:01] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:28:01] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:28:01] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:28:01] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:28:01] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:28:01] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:28:01] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:28:09] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:28:09] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:28:09] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:28:09] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:28:09] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:28:37] [ INFO ] [PacienteController:26] Se llama a Paciente Controller
+[2023-09-19 19:28:37] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:28:37] [ INFO ] [PacienteController:26] Se llama a Paciente Controller
+[2023-09-19 19:28:37] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:28:50] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:28:50] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:29:05] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:29:05] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:29:33] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:29:33] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:34:28] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:34:28] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:34:28] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:34:28] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:34:28] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:34:28] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:34:28] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:34:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:34:28] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:34:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:34:28] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:34:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:34:42] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:34:42] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:34:44] [ INFO ] [PacienteController:31] Se llama a Paciente Controller
+[2023-09-19 19:34:44] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:35:03] [ INFO ] [PacienteController:60] Se llama a Paciente Controller
+[2023-09-19 19:35:03] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:35:03] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:35:03] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:37:04] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:37:04] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:37:04] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:37:04] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:37:04] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:37:04] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:37:04] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:37:04] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:37:04] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:37:04] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:37:04] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:37:04] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:37:15] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:37:15] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:37:25] [ INFO ] [PacienteController:31] Se llama a Paciente Controller
+[2023-09-19 19:37:25] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:37:33] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:37:33] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:37:34] [ INFO ] [PacienteController:31] Se llama a Paciente Controller
+[2023-09-19 19:37:34] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:37:55] [ INFO ] [PacienteController:60] Se llama a Paciente Controller
+[2023-09-19 19:37:55] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:37:56] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:37:56] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:39:52] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:39:52] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:39:52] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:39:52] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:39:52] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:39:52] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:39:52] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:39:52] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:39:52] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:39:52] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:39:52] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:39:52] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:40:05] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:40:05] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:40:06] [ INFO ] [PacienteController:31] Se llama a Paciente Controller
+[2023-09-19 19:40:06] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:40:21] [ INFO ] [PacienteController:60] Se llama a Paciente Controller
+[2023-09-19 19:40:21] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:40:21] [ INFO ] [PacienteService:26] Se llama a Paciente Service para actualizar
+[2023-09-19 19:40:21] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:40:21] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:41:49] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:41:49] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:41:49] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:41:49] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:41:49] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:41:49] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:41:49] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:41:49] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:41:49] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:41:49] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:41:49] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:41:49] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:42:16] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:42:16] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:42:24] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:42:24] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:42:24] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:42:24] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:42:24] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:42:29] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 19:42:29] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 19:42:47] [ INFO ] [OdontologoController:24] Se llama a Odontologo Controller
+[2023-09-19 19:42:47] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:42:53] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 19:42:53] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 19:43:09] [ INFO ] [TurnoController:35] Se llama a Turno Controller
+[2023-09-19 19:43:09] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:43:09] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 19:43:09] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:43:09] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:43:14] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 19:43:14] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 19:43:22] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:43:22] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:43:22] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:43:22] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:43:22] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:43:22] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:44:00] [ INFO ] [PacienteController:26] Se llama a Paciente Controller
+[2023-09-19 19:44:00] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:44:00] [ INFO ] [PacienteController:26] Se llama a Paciente Controller
+[2023-09-19 19:44:00] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:44:07] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:44:07] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:44:17] [ INFO ] [PacienteController:41] Se llama a Paciente Controller
+[2023-09-19 19:44:17] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:44:17] [ INFO ] [PacienteService:30] Se llama a Paciente Service para eliminar
+[2023-09-19 19:44:22] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:44:22] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:44:22] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:44:22] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:44:22] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:44:22] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:44:24] [ INFO ] [TurnoController:58] Se llama a Turno Controller
+[2023-09-19 19:44:24] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 19:44:24] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:44:24] [ INFO ] [TurnoService:64] Se llama a Turno Service para eliminar
+[2023-09-19 19:44:29] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 19:44:29] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 19:44:31] [ INFO ] [OdontologoController:36] Se llama a Odontologo Controller
+[2023-09-19 19:44:31] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 19:44:31] [ INFO ] [OdontologoService:31] Se llama a odotologo Service para eliminar
+[2023-09-19 19:44:38] [ INFO ] [OdontologoController:30] Se llama a Odontologo Controller
+[2023-09-19 19:44:38] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 19:44:46] [ INFO ] [OdontologoController:51] Se llama a Odontologo Controller
+[2023-09-19 19:44:46] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 19:44:46] [ INFO ] [OdontologoService:27] Se llama a odotologo Service para actualizar
+[2023-09-19 19:44:46] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 19:44:46] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 19:44:52] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:44:52] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:44:52] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:44:52] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:44:52] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:44:58] [ INFO ] [TurnoController:48] Se llama a Turno Controller
+[2023-09-19 19:44:58] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 19:44:58] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:45:07] [ INFO ] [TurnoController:74] Se llama a turno Controller
+[2023-09-19 19:45:07] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:45:07] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 19:45:07] [ INFO ] [TurnoService:59] Se llama a Turno Service para actualizar
+[2023-09-19 19:45:07] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:45:07] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:45:07] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:45:07] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:45:07] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:45:07] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:45:51] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:45:51] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:45:52] [ INFO ] [PacienteController:31] Se llama a Paciente Controller
+[2023-09-19 19:45:52] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:46:10] [ INFO ] [PacienteController:60] Se llama a Paciente Controller
+[2023-09-19 19:46:10] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:46:10] [ INFO ] [PacienteService:26] Se llama a Paciente Service para actualizar
+[2023-09-19 19:46:10] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:46:10] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:46:17] [ INFO ] [PacienteController:31] Se llama a Paciente Controller
+[2023-09-19 19:46:17] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:46:34] [ INFO ] [PacienteController:60] Se llama a Paciente Controller
+[2023-09-19 19:46:34] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:46:34] [ INFO ] [PacienteService:26] Se llama a Paciente Service para actualizar
+[2023-09-19 19:46:34] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:46:34] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:47:42] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:47:42] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:47:42] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:47:42] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:47:42] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:47:42] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:47:42] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:47:42] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:47:42] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:47:42] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:47:42] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:47:42] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:48:03] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:48:03] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:48:03] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:48:03] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:48:03] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:52:40] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:52:40] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:52:40] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:52:40] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:52:40] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:52:40] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:52:40] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:52:40] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:52:40] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:52:40] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:52:40] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:52:40] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:52:50] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:52:50] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:52:50] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:52:50] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:52:50] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:52:59] [ INFO ] [TurnoController:58] Se llama a Turno Controller
+[2023-09-19 19:52:59] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 19:52:59] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:52:59] [ INFO ] [TurnoService:64] Se llama a Turno Service para eliminar
+[2023-09-19 19:53:05] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:53:05] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:53:05] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:53:05] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:58:17] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:58:17] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:58:17] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:58:17] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:58:17] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:58:17] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:58:17] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:58:17] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:58:17] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:58:17] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:58:17] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:58:17] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:58:23] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 19:58:23] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 19:58:26] [ INFO ] [PacienteController:31] Se llama a Paciente Controller
+[2023-09-19 19:58:26] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:58:32] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:58:32] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:58:32] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:58:32] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:58:32] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:58:52] [ INFO ] [TurnoController:58] Se llama a Turno Controller
+[2023-09-19 19:58:52] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 19:58:52] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:58:52] [ INFO ] [TurnoService:64] Se llama a Turno Service para eliminar
+[2023-09-19 19:59:28] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:59:28] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:59:28] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 19:59:28] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:59:28] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:59:28] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 19:59:28] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:59:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:59:28] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:59:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:59:28] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 19:59:28] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:59:39] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:59:39] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:59:39] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:59:39] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:59:39] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:59:41] [ INFO ] [TurnoController:48] Se llama a Turno Controller
+[2023-09-19 19:59:41] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 19:59:41] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:59:46] [ INFO ] [TurnoController:74] Se llama a turno Controller
+[2023-09-19 19:59:46] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 19:59:46] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 19:59:46] [ INFO ] [TurnoService:59] Se llama a Turno Service para actualizar
+[2023-09-19 19:59:46] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:59:46] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:59:46] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:59:46] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:59:46] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:59:54] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 19:59:54] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 19:59:58] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 19:59:58] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 19:59:58] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:59:58] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 19:59:58] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:00:02] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 20:00:02] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 20:00:14] [ INFO ] [PacienteController:41] Se llama a Paciente Controller
+[2023-09-19 20:00:14] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 20:00:14] [ INFO ] [PacienteService:30] Se llama a Paciente Service para eliminar
+[2023-09-19 20:02:06] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:02:06] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:02:06] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:02:06] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:02:06] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:02:06] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:02:06] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:02:06] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:02:06] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:02:06] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:02:06] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:02:06] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:02:14] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 20:02:14] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 20:02:20] [ INFO ] [PacienteController:41] Se llama a Paciente Controller
+[2023-09-19 20:02:20] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 20:02:20] [ INFO ] [PacienteService:30] Se llama a Paciente Service para eliminar
+[2023-09-19 20:02:23] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 20:02:23] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 20:02:28] [ INFO ] [PacienteController:41] Se llama a Paciente Controller
+[2023-09-19 20:02:28] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 20:02:28] [ INFO ] [PacienteService:30] Se llama a Paciente Service para eliminar
+[2023-09-19 20:03:47] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:03:47] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:03:47] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:03:47] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:03:47] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:03:47] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:03:47] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:03:47] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:03:47] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:03:47] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:03:47] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:03:47] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:03:55] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 20:03:55] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 20:03:59] [ INFO ] [PacienteController:41] Se llama a Paciente Controller
+[2023-09-19 20:03:59] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 20:03:59] [ INFO ] [PacienteService:30] Se llama a Paciente Service para eliminar
+[2023-09-19 20:04:03] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 20:04:03] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 20:04:05] [ INFO ] [OdontologoController:36] Se llama a Odontologo Controller
+[2023-09-19 20:04:05] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 20:04:05] [ INFO ] [OdontologoService:31] Se llama a odotologo Service para eliminar
+[2023-09-19 20:04:09] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 20:04:09] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 20:04:09] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:04:09] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:04:09] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:04:11] [ INFO ] [TurnoController:58] Se llama a Turno Controller
+[2023-09-19 20:04:11] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 20:04:11] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:04:11] [ INFO ] [TurnoService:64] Se llama a Turno Service para eliminar
+[2023-09-19 20:04:14] [ INFO ] [TurnoController:58] Se llama a Turno Controller
+[2023-09-19 20:04:14] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 20:04:14] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:04:14] [ INFO ] [TurnoService:64] Se llama a Turno Service para eliminar
+[2023-09-19 20:05:34] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:05:34] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:05:34] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:05:34] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:05:34] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:05:34] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:05:34] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:05:34] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:05:34] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:05:34] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:05:34] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:05:34] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:05:45] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 20:05:45] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 20:05:45] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:05:45] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:05:45] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:05:49] [ INFO ] [TurnoController:58] Se llama a Turno Controller
+[2023-09-19 20:05:49] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 20:05:49] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:05:49] [ INFO ] [TurnoService:64] Se llama a Turno Service para eliminar
+[2023-09-19 20:05:57] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 20:05:57] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 20:05:59] [ INFO ] [OdontologoController:36] Se llama a Odontologo Controller
+[2023-09-19 20:05:59] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 20:05:59] [ INFO ] [OdontologoService:31] Se llama a odotologo Service para eliminar
+[2023-09-19 20:10:15] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:10:15] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:10:15] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:10:15] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:10:15] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:10:15] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:10:15] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:10:15] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:10:15] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:10:15] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:10:15] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:10:15] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:10:24] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 20:10:24] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 20:10:27] [ INFO ] [OdontologoController:36] Se llama a Odontologo Controller
+[2023-09-19 20:10:27] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 20:10:27] [ INFO ] [OdontologoService:31] Se llama a odotologo Service para eliminar
+[2023-09-19 20:10:41] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 20:10:41] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 20:14:59] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:14:59] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:14:59] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:14:59] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:14:59] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:14:59] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:14:59] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:14:59] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:14:59] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:14:59] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:14:59] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:14:59] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:15:09] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 20:15:09] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 20:15:12] [ INFO ] [OdontologoController:36] Se llama a Odontologo Controller
+[2023-09-19 20:15:12] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 20:15:12] [ INFO ] [OdontologoService:31] Se llama a odotologo Service para eliminar
+[2023-09-19 20:15:19] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 20:15:19] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 20:15:19] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:15:19] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:15:19] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:15:21] [ INFO ] [TurnoController:58] Se llama a Turno Controller
+[2023-09-19 20:15:21] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 20:15:21] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:15:21] [ INFO ] [TurnoService:64] Se llama a Turno Service para eliminar
+[2023-09-19 20:15:25] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 20:15:25] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 20:15:26] [ INFO ] [OdontologoController:36] Se llama a Odontologo Controller
+[2023-09-19 20:15:26] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 20:15:26] [ INFO ] [OdontologoService:31] Se llama a odotologo Service para eliminar
+[2023-09-19 20:16:58] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 20:16:58] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 20:17:04] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 20:17:04] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 20:17:07] [ INFO ] [PacienteController:41] Se llama a Paciente Controller
+[2023-09-19 20:17:07] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 20:17:07] [ INFO ] [PacienteService:30] Se llama a Paciente Service para eliminar
+[2023-09-19 20:17:09] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 20:17:09] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 20:17:14] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 20:17:14] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 20:17:14] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:17:14] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:17:17] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 20:17:17] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 20:17:17] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:17:17] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:24:54] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:24:54] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:24:54] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:24:54] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:24:54] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:24:54] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:24:54] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:24:54] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:24:54] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:24:54] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:24:54] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:24:54] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:25:03] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 20:25:03] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 20:25:03] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:25:03] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:25:03] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:25:08] [ INFO ] [OdontologoController:81] Se llama a Odontologo Controller
+[2023-09-19 20:25:08] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 20:25:10] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 20:25:10] [ INFO ] [OdontologoService:31] Se llama a odotologo Service para eliminar
+[2023-09-19 20:26:45] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:26:45] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:26:45] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:26:45] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:26:45] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:26:45] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:26:45] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:26:45] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:26:45] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:26:45] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:26:45] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:26:45] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:27:28] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 20:27:28] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 20:27:29] [ INFO ] [OdontologoController:36] Se llama a Odontologo Controller
+[2023-09-19 20:27:29] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 20:27:29] [ INFO ] [OdontologoService:31] Se llama a odotologo Service para eliminar
+[2023-09-19 20:27:43] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 20:27:43] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 20:27:43] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:27:43] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:27:43] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:27:44] [ INFO ] [TurnoController:58] Se llama a Turno Controller
+[2023-09-19 20:27:44] [ INFO ] [TurnoService:69] Se llama a Turno Service para buscar por id
+[2023-09-19 20:27:44] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:27:44] [ INFO ] [TurnoService:64] Se llama a Turno Service para eliminar
+[2023-09-19 20:27:50] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 20:27:50] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 20:27:51] [ INFO ] [OdontologoController:36] Se llama a Odontologo Controller
+[2023-09-19 20:27:51] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 20:27:51] [ INFO ] [OdontologoService:31] Se llama a odotologo Service para eliminar
+[2023-09-19 20:27:53] [ INFO ] [OdontologoController:36] Se llama a Odontologo Controller
+[2023-09-19 20:27:53] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 20:27:53] [ INFO ] [OdontologoService:31] Se llama a odotologo Service para eliminar
+[2023-09-19 20:27:56] [ INFO ] [OdontologoController:36] Se llama a Odontologo Controller
+[2023-09-19 20:27:56] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 20:27:56] [ INFO ] [OdontologoService:31] Se llama a odotologo Service para eliminar
+[2023-09-19 20:27:59] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 20:27:59] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 20:28:02] [ INFO ] [OdontologoController:36] Se llama a Odontologo Controller
+[2023-09-19 20:28:02] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 20:28:02] [ INFO ] [OdontologoService:31] Se llama a odotologo Service para eliminar
+[2023-09-19 20:28:03] [ INFO ] [OdontologoController:36] Se llama a Odontologo Controller
+[2023-09-19 20:28:03] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 20:28:03] [ INFO ] [OdontologoService:31] Se llama a odotologo Service para eliminar
+[2023-09-19 20:28:06] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 20:28:06] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 20:28:57] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:28:57] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:28:57] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:28:57] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:28:57] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:28:57] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:28:57] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:28:57] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:28:57] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:28:57] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:28:57] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:28:57] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:29:10] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 20:29:10] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 20:29:12] [ INFO ] [OdontologoController:36] Se llama a Odontologo Controller
+[2023-09-19 20:29:12] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 20:29:12] [ INFO ] [OdontologoService:31] Se llama a odotologo Service para eliminar
+[2023-09-19 20:30:15] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 20:30:15] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 20:30:17] [ INFO ] [OdontologoController:36] Se llama a Odontologo Controller
+[2023-09-19 20:30:17] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 20:30:17] [ INFO ] [OdontologoService:31] Se llama a odotologo Service para eliminar
+[2023-09-19 20:30:24] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 20:30:24] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 20:37:05] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:37:05] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:37:05] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:37:05] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:37:05] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:37:05] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:37:05] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:37:05] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:37:05] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:37:05] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:37:05] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:37:05] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:37:20] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 20:37:20] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 20:37:26] [ INFO ] [OdontologoController:36] Se llama a Odontologo Controller
+[2023-09-19 20:37:26] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 20:37:26] [ INFO ] [OdontologoService:31] Se llama a odotologo Service para eliminar
+[2023-09-19 20:46:56] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:46:56] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:46:56] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:46:56] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:46:56] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:46:56] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:46:56] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:46:56] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:46:56] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:46:56] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:46:56] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:46:56] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:47:39] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 20:47:39] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 20:47:57] [ INFO ] [OdontologoController:24] Se llama a Odontologo Controller
+[2023-09-19 20:47:57] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:48:04] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 20:48:04] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 20:48:10] [ INFO ] [OdontologoController:36] Se llama a Odontologo Controller
+[2023-09-19 20:48:10] [ INFO ] [OdontologoService:39] Se llama a odotologo Service para buscar por id
+[2023-09-19 20:48:11] [ INFO ] [OdontologoService:31] Se llama a odotologo Service para eliminar
+[2023-09-19 20:51:51] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:51:51] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:51:51] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-19 20:51:51] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:51:51] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:51:51] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-19 20:51:51] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:51:51] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:51:51] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:51:51] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:51:51] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-19 20:51:51] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:52:04] [ INFO ] [OdontologoController:67] Se llama a Odontologo Controller
+[2023-09-19 20:52:04] [ INFO ] [OdontologoService:35] Se llama a odotologo Service para listar
+[2023-09-19 20:52:09] [ INFO ] [PacienteController:77] Se llama a Paciente Controller
+[2023-09-19 20:52:09] [ INFO ] [PacienteService:34] Se llama a Paciente Service para listar 
+[2023-09-19 20:52:11] [ INFO ] [PacienteController:41] Se llama a Paciente Controller
+[2023-09-19 20:52:11] [ INFO ] [PacienteService:38] Se llama a Paciente Service para buscar por id
+[2023-09-19 20:52:11] [ INFO ] [PacienteService:30] Se llama a Paciente Service para eliminar
+[2023-09-19 20:52:18] [ INFO ] [TurnoController:88] Se llama a Turno Controller
+[2023-09-19 20:52:18] [ INFO ] [TurnoService:79] Se llama a Turno Service para listar turnos
+[2023-09-19 20:52:18] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-19 20:52:18] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-21 22:44:54] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-21 22:44:54] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-21 22:44:54] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-21 22:44:54] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-21 22:44:54] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-21 22:44:54] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-21 22:44:54] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-21 22:44:54] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-21 22:44:54] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-21 22:44:54] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-21 22:44:54] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-21 22:44:54] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-21 22:50:53] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-21 22:50:53] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-21 22:50:53] [ INFO ] [PacienteService:22] Se llama a Paciente Service para guardar
+[2023-09-21 22:50:53] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-21 22:50:53] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-21 22:50:53] [ INFO ] [OdontologoService:23] Se llama a odotologo Service para guardar
+[2023-09-21 22:50:53] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-21 22:50:53] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-21 22:50:53] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-21 22:50:53] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO
+[2023-09-21 22:50:53] [ INFO ] [TurnoService:53] Se llama a Turno Service para guardar
+[2023-09-21 22:50:53] [ INFO ] [TurnoService:31] Se llama a Turno Service convertir turno a turnoDTO

@@ -1,5 +1,6 @@
 package com.example.ProyectoJessiYAna.entity;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.*;
 import org.springframework.stereotype.Component;
 
@@ -21,7 +22,8 @@ public class Odontologo {
     private String nombre;
     @Column
     private String apellido;
-    @OneToMany(mappedBy = "odontologo", fetch = FetchType.LAZY)
+    @OneToMany(mappedBy = "odontologo", fetch = FetchType.LAZY,cascade = CascadeType.REMOVE)// Cascade para que borre en cascada el turno
+    @JsonIgnore
     private Set<Turno> turnos = new HashSet<>();
 
     public Odontologo() {

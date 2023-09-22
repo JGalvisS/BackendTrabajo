@@ -10,15 +10,14 @@ window.addEventListener('load', function () {
         //a diferencia de un estudiante nuevo en este caso enviamos el id
         //para poder identificarlo y modificarlo para no cargarlo como nuevo
         const formData = {
-            
+            id:document.querySelector('#turno_id').value,
             paciente:{
-                id:document.querySelector('#pacienteId').value,
-            }, 
+                id:document.querySelector('#pacienteId').value
+            },
             odontologo: {
-                id:document.querySelector('#odontologiId').value,
-            }, 
-            fecha: document.querySelector('#fecha').value,
-            
+                id: document.querySelector('#odontologoId').value
+            },
+            fecha: document.querySelector('#fecha').value
         };
 
         //invocamos utilizando la función fetch la API estudiantes con el método PUT
