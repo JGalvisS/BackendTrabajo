@@ -4,7 +4,7 @@
 
 ## 📚 Descripción
 
-**BackendTrabajo** es una aplicación backend desarrollada con **Spring Boot**, diseñada para gestionar [descripción breve de la funcionalidad principal, por ejemplo: "la administración de usuarios y roles en una plataforma educativa"]. Este proyecto fue realizado de manera colaborativa por estudiantes como parte de un ejercicio académico, con el objetivo de aplicar conceptos de desarrollo de software y trabajo en equipo.
+**BackendTrabajo** es una aplicación backend desarrollada con **Spring Boot**, diseñada para gestionar la pagina de una odontologia. Este proyecto fue realizado de manera colaborativa por estudiantes como parte de un ejercicio académico, con el objetivo de aplicar conceptos de desarrollo de software y trabajo en equipo.
 
 ## 👥 Colaboradores
 
